@@ -1,0 +1,62 @@
+Text   13142218.0              Connection
+Text   13142218.0   00000EA4   Emerald - Your Marketing Connection </>
+Text   13142218.0   00000EA4   800-233-2834
+Text   13142218.0   00000EA4   
+Text   13142218.0   00000EA4   New user? Sign up now </register/>| Already registered: Login
+Text   13142218.0   00000EA4   </login/ec/>| Hello: |Log out <#>| Cart(0) </cart/>
+Text   13142218.0   00000EA4   ENTER SPECIAL PROMO CODE:
+Text   13142218.0   00000EA4   
+Text   13142218.0   00000EA4   Like us on Facebook <http://www.facebook.com/emeraldconnect> Follow us
+Text   13142218.0   00000EA4   on Twitter <http://twitter.com/EmeraldConnect> Circle us on Google+
+Text   13142218.0   00000EA4   <https://plus.google.com/116142801453820200229/posts> Watch us on
+Text   13142218.0   00000EA4   YouTube <http://www.youtube.com/EmeraldConnect> Stay up to date with RSS
+Text   13142218.0   00000EA4   </include/xml/rss.xml>
+Text   13142218.0   00000EA4   
+Text   13142218.0   00000EA4     * Home </>
+Text   13142218.0   00000EA4     * Products </products/>
+Text   13143218.0   00000EA4     * Training </products/training/>
+Text   13143218.0   00000EA4     * Prospecting Solutions </solutions/prospecting/>
+Text   13143218.0   00000EA4     * Retention Solutions </solutions/retention/>
+Text   13143218.0   00000EA4     * Branding Solutions </solutions/branding/>
+Text   13143218.0   00000EA4     * Marketing Tips </marketing_tips/>
+Text   13143218.0   00000EA4     * Support </support/>
+Text   13143218.0   00000EA4     * Specials </special_deals/>
+Text   13143218.0   00000EA4   
+Text   13143218.0   00000EA4   Home </> > Support </support/> > Questions </support/questions/> > Text
+Text   13143218.0   00000EA4   Samples
+Text   13143218.0   00000EA4   
+Text   13143218.0   00000EA4     *
+Text   13143218.0   00000EA4   
+Text   13143218.0   00000EA4   
+Text   13143218.0   00000EA4             Support </support/>
+Text   13144218.0   00000EA4   
+Text   13144218.0   00000EA4         o Questions </support/questions/>
+Text   13144218.0   00000EA4         o Marketing Ideas </support/marketing_ideas/>
+Text   13144218.0   00000EA4         o
+Text   13144218.0   00000EA4           expand/collapse AutoMark
+Text   13144218.0   00000EA4             + Images </support/automark/images/>
+Text   13144218.0   00000EA4             + Banners </support/automark/banners/>
+Text   13144218.0   00000EA4             + Exporting Lists </support/automark/exporting_lists/>
+Text   13144218.0   00000EA4             + WebEx Training
+Text   13144218.0   00000EA4                 # Part 1 </support/automark/webex_part_1/>
+Text   13144218.0   00000EA4                 # Part 2 </support/automark/webex_part_2/>
+Text   13144218.0   00000EA4                 # Part 3 </support/automark/webex_part_3/>
+Text   13144218.0   00000EA4         o Custom Services </support/custom_services/>
+Text   13144218.0   00000EA4         o Webcasts </support/webcasts/>
+Text   13144218.0   00000EA4         o Contact Tech Support </contact/tech_support/>
+Text   13145218.0   00000EA4   
+Text   13145218.0   00000EA4   Log Into Your Website Admin <https://admin.emeraldconnect.com/admin/>
+Text   13145218.0   00000EA4   
+Text   13145218.0   00000EA4   
+Text   13145218.0   00000EA4     Text Samples
+Text   13145218.0   00000EA4   
+Text   13145218.0   00000EA4   
+Text   13145218.0   00000EA4       Associates
+Text   13145218.0   00000EA4   
+Text   13145218.0   00000EA4   As a financial professional and an active member of my community, [name]
+Text   13145218.0   00000EA4   is dedicated to helping individuals and businesses build their financial
+Text   13145218.0   00000EA4   futures. To stay on top of [his/her] field and develop [his/her]
+Text   13145218.0   00000EA4   professional skills, [he/she] regularly attends industry training and
+Text   13145218.0   00000EA4   certification programs.
+Text   13145218.0   00000EA4   
+Text   13145218.0              Disconnection
