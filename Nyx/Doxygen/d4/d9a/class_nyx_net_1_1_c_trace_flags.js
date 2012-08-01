@@ -1,0 +1,26 @@
+var class_nyx_net_1_1_c_trace_flags =
+[
+    [ "TFlags_Ansi", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a628e0fd434f37c911b8c922ca4bdca36a53de953579156b689cda9336fc9179d0", null ],
+    [ "TFlags_WideChar", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a628e0fd434f37c911b8c922ca4bdca36a388abc5fca2ba67d0fe670d67b97e5c7", null ],
+    [ "TFlags_Windows", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#aee2bf14e5e96d6f7f69e6b665045da53a3618aa11461c9e6539ce0b079f29ef16", null ],
+    [ "TFlags_OSX", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#aee2bf14e5e96d6f7f69e6b665045da53ab04bd548b832e9beea5d09218938cec8", null ],
+    [ "TFlags_Linux", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#aee2bf14e5e96d6f7f69e6b665045da53a360f13c7b188bb198981f6e27722163a", null ],
+    [ "TFlags_32Bits", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a4b43cf1f6cbd1a01c33ca56ddc551c13a2108b997de6b5338bd4d7cac61c4e827", null ],
+    [ "TFlags_64Bits", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a4b43cf1f6cbd1a01c33ca56ddc551c13a633ceba1a0f85d7804235ba32af1dbd0", null ],
+    [ "CTraceFlags", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#ade726ebb4c1eaa7994ae652aa7b05e88", null ],
+    [ "CTraceFlags", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#ad7a7cecbca9641ac9e03d28132e25025", null ],
+    [ "CTraceFlags", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a9f24b95e2d15149ae5cdf9721a94b9b9", null ],
+    [ "~CTraceFlags", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a11a10ff07ec1314ca7d5925d4c9bad27", null ],
+    [ "Is32Bits", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#adf27914f1821e823e9e2387f5e37f9c9", null ],
+    [ "Is64Bits", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a06f8892a1a7906e62b6818df76ea256d", null ],
+    [ "IsAnsi", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a8792674c51d448897f29632d56cd3555", null ],
+    [ "IsLinux", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a3e3230d492f0b176dba7603d1a4ef4a7", null ],
+    [ "IsOSX", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#aa1af101676532e63acded3033fc22baa", null ],
+    [ "IsWideChar", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#adef23b61e56f313b6b4cb000b5201d18", null ],
+    [ "IsWindows", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a00babf9e6a846b132c1bcd3b1fac01f7", null ],
+    [ "operator=", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#ad71244d947827f8e82ac429707280783", null ],
+    [ "WideCharSize", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a251967ca14c1b0167b4779b73f4e0810", null ],
+    [ "m_Flags", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#ac2781da7d146a249842cdfd8620e2bff", null ],
+    [ "m_Reserved", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#ae67aad5989b6f099c68dfcc00cffa401", null ],
+    [ "m_WideCharSize", "d4/d9a/class_nyx_net_1_1_c_trace_flags.html#adec71fe13f726747cc8da43e0ac52412", null ]
+];

@@ -1,0 +1,1043 @@
+<toc label="Nyx" topic="index.html">
+  <topic label="Classes">
+    <topic label="Class List" href="annotated.html">
+      <topic label="Nyx">
+        <topic label="CAtomicValue" href="d6/da3/class_nyx_1_1_c_atomic_value.html">
+          <topic label="CAtomicValue" href="d6/da3/class_nyx_1_1_c_atomic_value.html#a4fd557e9f1677096e45149856fe0ce9f"/>
+          <topic label="~CAtomicValue" href="d6/da3/class_nyx_1_1_c_atomic_value.html#ae75100b496d03f80b6184c737f48c64d"/>
+          <topic label="operator++" href="d6/da3/class_nyx_1_1_c_atomic_value.html#a131121fe2b8293b225175bcd25a57477"/>
+          <topic label="operator--" href="d6/da3/class_nyx_1_1_c_atomic_value.html#a76a958f4ae8a20597055f87234b00d62"/>
+          <topic label="Value" href="d6/da3/class_nyx_1_1_c_atomic_value.html#a3e89c58d5db1a1d9bb3107f3073383cc"/>
+        </topic>
+        <topic label="CMsgBucket" href="de/d4b/class_nyx_1_1_c_msg_bucket.html">
+          <topic label="CMsgBucket" href="de/d4b/class_nyx_1_1_c_msg_bucket.html#ada6ad3be50df4a64816ffa767622868d"/>
+          <topic label="~CMsgBucket" href="de/d4b/class_nyx_1_1_c_msg_bucket.html#ac350fd1d6f4d08ff3dc7626144985cf8"/>
+          <topic label="NyxLinux::CActiveObject_Impl" href="de/d4b/class_nyx_1_1_c_msg_bucket.html#ace31031194eec027b60de4693c4bfcb6"/>
+          <topic label="m_pMsg" href="de/d4b/class_nyx_1_1_c_msg_bucket.html#ace91abc426171b651a2f157ae3a1ec9a"/>
+        </topic>
+        <topic label="TMsgBucket" href="d1/dae/class_nyx_1_1_t_msg_bucket.html">
+          <topic label="TMsgBucket" href="d1/dae/class_nyx_1_1_t_msg_bucket.html#ad512454686388599ac4627b88b06cb4c"/>
+          <topic label="~TMsgBucket" href="d1/dae/class_nyx_1_1_t_msg_bucket.html#af6bc3890b099dcb0e0175560e350c0a7"/>
+          <topic label="operator-&gt;" href="d1/dae/class_nyx_1_1_t_msg_bucket.html#abc4fb4097974d7cbbd54af9e8f4b6c95"/>
+        </topic>
+        <topic label="StdListAllocator" href="d2/d9e/class_nyx_1_1_std_list_allocator.html">
+          <topic label="rebind" href="d5/dc7/struct_nyx_1_1_std_list_allocator_1_1rebind.html">
+            <topic label="other" href="d5/dc7/struct_nyx_1_1_std_list_allocator_1_1rebind.html#a7106eef2e68a22800a074047875ee42c"/>
+          </topic>
+          <topic label="const_pointer" href="d2/d9e/class_nyx_1_1_std_list_allocator.html#a785e5340f0c74b9c7b252bd95f7e5a2e"/>
+          <topic label="const_reference" href="d2/d9e/class_nyx_1_1_std_list_allocator.html#aabda29d0d748ddbb4590158e3b29297f"/>
+          <topic label="pointer" href="d2/d9e/class_nyx_1_1_std_list_allocator.html#a68772f38bba5db13dd86c9ac098f3bcd"/>
+          <topic label="reference" href="d2/d9e/class_nyx_1_1_std_list_allocator.html#a61ec17320c62b7c1462e2c970f72ab45"/>
+          <topic label="size_type" href="d2/d9e/class_nyx_1_1_std_list_allocator.html#addfa546ed3aa83b0d5d99d72600937dc"/>
+          <topic label="value_type" href="d2/d9e/class_nyx_1_1_std_list_allocator.html#a893a6ce1817065f5e985af3ab619c6a6"/>
+          <topic label="StdListAllocator" href="d2/d9e/class_nyx_1_1_std_list_allocator.html#a9379b4872a2b8f2ca7be7a6caeeee2a4"/>
+          <topic label="StdListAllocator" href="d2/d9e/class_nyx_1_1_std_list_allocator.html#a3b912f924432776e886c34e7b03a6b13"/>
+          <topic label="StdListAllocator" href="d2/d9e/class_nyx_1_1_std_list_allocator.html#a207eb9395c43fce0a2831bb76415e4d1"/>
+          <topic label="address" href="d2/d9e/class_nyx_1_1_std_list_allocator.html#aa934a18032d8ef40b15fcfaee1bbc348"/>
+          <topic label="address" href="d2/d9e/class_nyx_1_1_std_list_allocator.html#af1c38d97eda7ca15cd61eecbff8aaae5"/>
+          <topic label="allocate" href="d2/d9e/class_nyx_1_1_std_list_allocator.html#a712c60c1ceae6c88ca1a818b6cefc087"/>
+          <topic label="allocate" href="d2/d9e/class_nyx_1_1_std_list_allocator.html#ab6a18eff05f5e7ffc78d4684da95c597"/>
+          <topic label="construct" href="d2/d9e/class_nyx_1_1_std_list_allocator.html#a32ce9b384479469cfee4f19c700d25d8"/>
+          <topic label="deallocate" href="d2/d9e/class_nyx_1_1_std_list_allocator.html#a11ca663484b9652b7657a74e149327d6"/>
+          <topic label="destroy" href="d2/d9e/class_nyx_1_1_std_list_allocator.html#ae505dc775ba5f82fc478c2179123f457"/>
+          <topic label="max_size" href="d2/d9e/class_nyx_1_1_std_list_allocator.html#a4a73a5016df3fd1af2a1e978aeb2d218"/>
+          <topic label="operator=" href="d2/d9e/class_nyx_1_1_std_list_allocator.html#a700e5d0ed01d4dee3754e9e6915e1c02"/>
+          <topic label="m_refObjectsPool" href="d2/d9e/class_nyx_1_1_std_list_allocator.html#a82baaebd99fc54415a5fe2920be4f84b"/>
+        </topic>
+        <topic label="CSystem" href="d8/d40/class_nyx_1_1_c_system.html">
+          <topic label="CSystem" href="d8/d40/class_nyx_1_1_c_system.html#a0c19372d1e614c71b7002ac7ff31160a"/>
+          <topic label="~CSystem" href="d8/d40/class_nyx_1_1_c_system.html#ad903d9af8122d177ce167a97aa1973e6"/>
+          <topic label="Sleep" href="d8/d40/class_nyx_1_1_c_system.html#a500a6c96416416222d6f95b377eb78df"/>
+        </topic>
+        <topic label="CTF_Text" href="dd/de2/class_nyx_1_1_c_t_f___text.html">
+          <topic label="CTF_Text" href="dd/de2/class_nyx_1_1_c_t_f___text.html#aee6d7115fa8bab59ddd5697b8e65c011"/>
+          <topic label="~CTF_Text" href="dd/de2/class_nyx_1_1_c_t_f___text.html#a751eef6704c8cd6efa56627426451592"/>
+        </topic>
+        <topic label="CTF_AnsiText" href="d6/dc3/class_nyx_1_1_c_t_f___ansi_text.html">
+          <topic label="CTF_AnsiText" href="d6/dc3/class_nyx_1_1_c_t_f___ansi_text.html#a726aa591c14327e97861126a7b84544c"/>
+          <topic label="~CTF_AnsiText" href="d6/dc3/class_nyx_1_1_c_t_f___ansi_text.html#ae63322ec7d6c4d350d75224655050e6f"/>
+        </topic>
+        <topic label="CTF_Int" href="d7/d95/class_nyx_1_1_c_t_f___int.html">
+          <topic label="CTF_Int" href="d7/d95/class_nyx_1_1_c_t_f___int.html#a64c60e740e430fc2926f5c6018d599ac"/>
+        </topic>
+        <topic label="CTF_Double" href="d7/df1/class_nyx_1_1_c_t_f___double.html">
+          <topic label="CTF_Double" href="d7/df1/class_nyx_1_1_c_t_f___double.html#a8fad5ccef1d9a7c60c767d2ab3f937cb"/>
+        </topic>
+        <topic label="CTF_Float" href="d6/d21/class_nyx_1_1_c_t_f___float.html">
+          <topic label="CTF_Float" href="d6/d21/class_nyx_1_1_c_t_f___float.html#aeeda1238e75953508c4e42038c160140"/>
+        </topic>
+        <topic label="CTF_Hex" href="d6/d9e/class_nyx_1_1_c_t_f___hex.html">
+          <topic label="CTF_Hex" href="d6/d9e/class_nyx_1_1_c_t_f___hex.html#a33ad3deef835d9d690643a7720c44371"/>
+        </topic>
+        <topic label="CTF_Ptr" href="d4/d2e/class_nyx_1_1_c_t_f___ptr.html">
+          <topic label="CTF_Ptr" href="d4/d2e/class_nyx_1_1_c_t_f___ptr.html#a18c67c4bc92a7176c03b349dee4d9133"/>
+        </topic>
+        <topic label="CTF_ThreadId" href="d5/dd4/class_nyx_1_1_c_t_f___thread_id.html">
+          <topic label="CTF_ThreadId" href="d5/dd4/class_nyx_1_1_c_t_f___thread_id.html#a42496a9d859d190c8db7ed6db580abe1"/>
+        </topic>
+        <topic label="CTF_TickCount" href="d7/dd1/class_nyx_1_1_c_t_f___tick_count.html">
+          <topic label="CTF_TickCount" href="d7/dd1/class_nyx_1_1_c_t_f___tick_count.html#a81aaff62f10711590dc2e9fb8b3cd586"/>
+        </topic>
+        <topic label="CActiveObject" href="d1/d7f/class_nyx_1_1_c_active_object.html">
+          <topic label="Alloc" href="d1/d7f/class_nyx_1_1_c_active_object.html#a1992fc3b4d824c766304193d2692218d"/>
+          <topic label="Handlers" href="d1/d7f/class_nyx_1_1_c_active_object.html#aa70838df281f09dee6e24fd83edfac1f"/>
+          <topic label="Handlers" href="d1/d7f/class_nyx_1_1_c_active_object.html#ac364049964da30f3c1e8188e41c446e9"/>
+          <topic label="Post" href="d1/d7f/class_nyx_1_1_c_active_object.html#ad696d964082737205a8710a4614eca4a"/>
+          <topic label="Send" href="d1/d7f/class_nyx_1_1_c_active_object.html#a7b1b2795e54f0d2eda9b926845581bf4"/>
+          <topic label="Start" href="d1/d7f/class_nyx_1_1_c_active_object.html#ae568aab0a6d3f2765c1b6303be0cdf5c"/>
+          <topic label="Stop" href="d1/d7f/class_nyx_1_1_c_active_object.html#a180e0afac528e135c5910f7435c1aa9c"/>
+        </topic>
+        <topic label="CAnsiFile" href="d9/d8d/class_nyx_1_1_c_ansi_file.html">
+          <topic label="Alloc" href="d9/d8d/class_nyx_1_1_c_ansi_file.html#a9b4d7d14a56631db19702d5f852fc9b6"/>
+          <topic label="Close" href="d9/d8d/class_nyx_1_1_c_ansi_file.html#a936859012421cdf5d806ec8407151614"/>
+          <topic label="Create" href="d9/d8d/class_nyx_1_1_c_ansi_file.html#a1537e70b853aed408c3ae3bfc089216f"/>
+          <topic label="Open" href="d9/d8d/class_nyx_1_1_c_ansi_file.html#a7a88209a2d601c1dbdb6bc7fa6bb88ea"/>
+          <topic label="Read" href="d9/d8d/class_nyx_1_1_c_ansi_file.html#a2ff567c9174f7e2bc9b8f27987530327"/>
+          <topic label="Write" href="d9/d8d/class_nyx_1_1_c_ansi_file.html#a6b338be797761c789dac245a299e5f44"/>
+          <topic label="Write" href="d9/d8d/class_nyx_1_1_c_ansi_file.html#ae3c2658caea03e8beb66cb078e3932cb"/>
+          <topic label="Write" href="d9/d8d/class_nyx_1_1_c_ansi_file.html#ad1eae3dcc781b4066705084ee725a215"/>
+          <topic label="WriteEOL" href="d9/d8d/class_nyx_1_1_c_ansi_file.html#a9c8e033041ebcb96c88bca99cb2b4f1f"/>
+        </topic>
+        <topic label="CAString" href="d3/d99/class_nyx_1_1_c_a_string.html">
+          <topic label="CAString" href="d3/d99/class_nyx_1_1_c_a_string.html#a763353d4eeb8baad8bc4f82e2e8e654f"/>
+          <topic label="CAString" href="d3/d99/class_nyx_1_1_c_a_string.html#a2d9e2bdf3282627393a577b853ccb91f"/>
+          <topic label="CAString" href="d3/d99/class_nyx_1_1_c_a_string.html#a78c9d65941d8cc6b333fc96f3663c953"/>
+          <topic label="CAString" href="d3/d99/class_nyx_1_1_c_a_string.html#ab17b3b2930bfef235774593609132b90"/>
+          <topic label="BufferPtr" href="d3/d99/class_nyx_1_1_c_a_string.html#ac4e3b0abfd6cbdc5fc9d9fee3652fd87"/>
+          <topic label="c_str" href="d3/d99/class_nyx_1_1_c_a_string.html#a360363b4f693e8f4e3773b5d43b0d100"/>
+          <topic label="Find" href="d3/d99/class_nyx_1_1_c_a_string.html#a2069b42d8daf47863d617242b3b39f82"/>
+          <topic label="Format" href="d3/d99/class_nyx_1_1_c_a_string.html#a53ab2cb41b397f90c1d3bb68e778fe88"/>
+          <topic label="Format" href="d3/d99/class_nyx_1_1_c_a_string.html#a7b7122d5cf94a92743810c39355f34ef"/>
+          <topic label="length" href="d3/d99/class_nyx_1_1_c_a_string.html#a6bd80cf57ebfae65d5929bdf2f95c3fc"/>
+          <topic label="operator!=" href="d3/d99/class_nyx_1_1_c_a_string.html#a6b129b05bca127df3267c384a94fe514"/>
+          <topic label="operator!=" href="d3/d99/class_nyx_1_1_c_a_string.html#a4660d76582d30fbb852426cedd4495e5"/>
+          <topic label="operator+" href="d3/d99/class_nyx_1_1_c_a_string.html#a3ded7cd411b08bafe2401e8e22dd8d77"/>
+          <topic label="operator+" href="d3/d99/class_nyx_1_1_c_a_string.html#a567d316b38bf8feacdbb80cb49fe3e39"/>
+          <topic label="operator&lt;" href="d3/d99/class_nyx_1_1_c_a_string.html#a7e734be44aaf26dd7e848bebdeaa668d"/>
+          <topic label="operator=" href="d3/d99/class_nyx_1_1_c_a_string.html#a672829408f266f5784b7507712a9a2a6"/>
+          <topic label="operator=" href="d3/d99/class_nyx_1_1_c_a_string.html#a758f1b86ba062eb945c88401927e4e5d"/>
+          <topic label="operator=" href="d3/d99/class_nyx_1_1_c_a_string.html#a64d152f42840e409d146a4f533121413"/>
+          <topic label="operator=" href="d3/d99/class_nyx_1_1_c_a_string.html#a431e7e42855773f06d68afcd3ba18116"/>
+          <topic label="operator=" href="d3/d99/class_nyx_1_1_c_a_string.html#a261988d582feeb2ce5fe389c0b307a7a"/>
+          <topic label="operator[]" href="d3/d99/class_nyx_1_1_c_a_string.html#a2fee5ccdbdcca210fbfd6a131651347e"/>
+          <topic label="operator[]" href="d3/d99/class_nyx_1_1_c_a_string.html#a78ed257c5f737d86950538e3e84691f3"/>
+        </topic>
+        <topic label="TBuffer" href="dc/d61/class_nyx_1_1_t_buffer.html">
+          <topic label="TBuffer" href="dc/d61/class_nyx_1_1_t_buffer.html#a839313aade9c37a9178b0359e3a3cb4c"/>
+          <topic label="~TBuffer" href="dc/d61/class_nyx_1_1_t_buffer.html#af811360d8a95890056a9736bf24fd4f1"/>
+          <topic label="addDataSize" href="dc/d61/class_nyx_1_1_t_buffer.html#a6c07227660869d9713eeb4fad1488c2e"/>
+          <topic label="Alloc" href="dc/d61/class_nyx_1_1_t_buffer.html#a5235dd863217c7537e45bfcd1a02d47e"/>
+          <topic label="Buffer" href="dc/d61/class_nyx_1_1_t_buffer.html#a42b6ea263683f5660cd244039b2a3434"/>
+          <topic label="Buffer" href="dc/d61/class_nyx_1_1_t_buffer.html#aba75bed81b32a6ddd2eebf4b0584bcfa"/>
+          <topic label="Clear" href="dc/d61/class_nyx_1_1_t_buffer.html#a74c016b07f6d914f7a17c7293bb2fc86"/>
+          <topic label="DataSize" href="dc/d61/class_nyx_1_1_t_buffer.html#a90f4ccbfbd4e7a30b28931022b2940c6"/>
+          <topic label="Free" href="dc/d61/class_nyx_1_1_t_buffer.html#a22ef4c05545470b1cd8efa5889269e27"/>
+          <topic label="FreeSize" href="dc/d61/class_nyx_1_1_t_buffer.html#af37b7e48d054c3ccbdfc240ce0a72976"/>
+          <topic label="GetBufferAs" href="dc/d61/class_nyx_1_1_t_buffer.html#a7515723e42e79b7c10bec7d58c934c30"/>
+          <topic label="GetBufferAs" href="dc/d61/class_nyx_1_1_t_buffer.html#aa5302d1285c7c330687a2762a27bc1ef"/>
+          <topic label="getReadPos" href="dc/d61/class_nyx_1_1_t_buffer.html#aa5758c1a5b1d5fb564e557814618121d"/>
+          <topic label="getWritePos" href="dc/d61/class_nyx_1_1_t_buffer.html#a979a8be20cd676fcafe71e53251b6508"/>
+          <topic label="operator const TYPE *" href="dc/d61/class_nyx_1_1_t_buffer.html#a8666891a3cfe3d9eea23494e57509534"/>
+          <topic label="operator const void *" href="dc/d61/class_nyx_1_1_t_buffer.html#aaf3eb88d8d2bc51aa1fdc5ad744d0d39"/>
+          <topic label="operator TYPE *" href="dc/d61/class_nyx_1_1_t_buffer.html#acb8b98ffc5c41b2a14261f3ca7af3d71"/>
+          <topic label="operator void *" href="dc/d61/class_nyx_1_1_t_buffer.html#a9cdc2af0a858b8d5313ed17d63fd3c7a"/>
+          <topic label="ReadData" href="dc/d61/class_nyx_1_1_t_buffer.html#a5c5369638319e77b747ad7932d24e4b4"/>
+          <topic label="Resize" href="dc/d61/class_nyx_1_1_t_buffer.html#a14e50ed9788513a9f4963d51fd7f9963"/>
+          <topic label="Size" href="dc/d61/class_nyx_1_1_t_buffer.html#a87fdc419793df45f1431798f78fbde4b"/>
+          <topic label="TotalSize" href="dc/d61/class_nyx_1_1_t_buffer.html#ac01eec0700516da3de8ef62522fb46a7"/>
+          <topic label="WriteData" href="dc/d61/class_nyx_1_1_t_buffer.html#a417edd25b2a76124e127469979449d8d"/>
+          <topic label="WriteDataResize" href="dc/d61/class_nyx_1_1_t_buffer.html#a6bbb8e32c192025a8b6ded14df214cb1"/>
+          <topic label="m_DataSize" href="dc/d61/class_nyx_1_1_t_buffer.html#ae7ebd0a682d4e89d859ca481568cad50"/>
+          <topic label="m_pBuffer" href="dc/d61/class_nyx_1_1_t_buffer.html#af8d715d3e7bb9400fd4f10d6e00d5c83"/>
+          <topic label="m_pLastPos" href="dc/d61/class_nyx_1_1_t_buffer.html#a4c81f82981e4205f8d67908d19bb59a1"/>
+          <topic label="m_pNextReadPos" href="dc/d61/class_nyx_1_1_t_buffer.html#a5b15100c661e3c67d17391841cdb81cd"/>
+          <topic label="m_pNextWritePos" href="dc/d61/class_nyx_1_1_t_buffer.html#a2adf2639226434720cb5c5c6733432b4"/>
+          <topic label="m_Size" href="dc/d61/class_nyx_1_1_t_buffer.html#ab0259d454bf2365abe3b8991cc5511ea"/>
+        </topic>
+        <topic label="CConsoleTraceOutput" href="d7/d18/class_nyx_1_1_c_console_trace_output.html">
+          <topic label="Alloc" href="d7/d18/class_nyx_1_1_c_console_trace_output.html#af4a833b086ef8740eca30ca20029f678"/>
+        </topic>
+        <topic label="CDelegateBase" href="d1/d73/class_nyx_1_1_c_delegate_base.html">
+          <topic label="ParamType" href="d1/d73/class_nyx_1_1_c_delegate_base.html#ad2b92c476f1b84e616d6c7832f7bcb0c"/>
+          <topic label="CDelegateBase" href="d1/d73/class_nyx_1_1_c_delegate_base.html#ab4672fa87169d951d3a0a93a6355202f"/>
+          <topic label="~CDelegateBase" href="d1/d73/class_nyx_1_1_c_delegate_base.html#a93d45ab690e565f285a3a94951af9546"/>
+          <topic label="Invoke" href="d1/d73/class_nyx_1_1_c_delegate_base.html#ab95e261a980ed07b0ab38a986d572dc9"/>
+        </topic>
+        <topic label="CEvent" href="d6/d40/class_nyx_1_1_c_event.html">
+          <topic label="Alloc" href="d6/d40/class_nyx_1_1_c_event.html#a17e0eccf1af4022e4c0cf6ab356a5ae7"/>
+          <topic label="Signal" href="d6/d40/class_nyx_1_1_c_event.html#a294c63562cb959302bb7ae17f19bef53"/>
+          <topic label="WaitSignaled" href="d6/d40/class_nyx_1_1_c_event.html#a014470cf45bbe0da43ec5a60737ff43e"/>
+          <topic label="WaitSignaled" href="d6/d40/class_nyx_1_1_c_event.html#a8933c900093a00048ea7bc384bbd775f"/>
+        </topic>
+        <topic label="CException" href="de/d78/class_nyx_1_1_c_exception.html">
+          <topic label="CException" href="de/d78/class_nyx_1_1_c_exception.html#ae0b5bdf46579dcf2aade6a48f1984451"/>
+          <topic label="~CException" href="de/d78/class_nyx_1_1_c_exception.html#a733f2f9ca7fbe68505a85c61954fbfe4"/>
+          <topic label="Msg" href="de/d78/class_nyx_1_1_c_exception.html#adf11f0a944b24580673a27a7548d4fac"/>
+          <topic label="m_szMsg" href="de/d78/class_nyx_1_1_c_exception.html#a592b6b6cc6a776eff042c5bbfa099a5c"/>
+        </topic>
+        <topic label="CExternalModule" href="de/d48/class_nyx_1_1_c_external_module.html">
+          <topic label="Alloc" href="de/d48/class_nyx_1_1_c_external_module.html#ad2ebde00fbf7a8c2fb1c637aeff93b22"/>
+          <topic label="GetFct" href="de/d48/class_nyx_1_1_c_external_module.html#a3a98e847aabaf247274b4e24b6bc6cd6"/>
+          <topic label="GetHandle" href="de/d48/class_nyx_1_1_c_external_module.html#a15ab8de90607495eac0e0936d623e49d"/>
+          <topic label="Load" href="de/d48/class_nyx_1_1_c_external_module.html#a48a9dc73a384b2870f69cf1cfea948f1"/>
+          <topic label="Unload" href="de/d48/class_nyx_1_1_c_external_module.html#abf583f153ad2d1126e08271a6eb45c3c"/>
+          <topic label="Valid" href="de/d48/class_nyx_1_1_c_external_module.html#ae71ab3500ea26c4823fd80ea9436a7a1"/>
+        </topic>
+        <topic label="CFile" href="d6/d76/class_nyx_1_1_c_file.html"/>
+        <topic label="TFixedString" href="d1/d5b/class_nyx_1_1_t_fixed_string.html"/>
+        <topic label="TFixedString&lt; char, StringSize &gt;" href="d0/dcd/class_nyx_1_1_t_fixed_string_3_01char_00_01_string_size_01_4.html">
+          <topic label="TFixedString" href="d0/dcd/class_nyx_1_1_t_fixed_string_3_01char_00_01_string_size_01_4.html#a55e24b4b288a534ba7554a1bb4dd8662"/>
+          <topic label="~TFixedString" href="d0/dcd/class_nyx_1_1_t_fixed_string_3_01char_00_01_string_size_01_4.html#a316dae5c60e481329b3e81d498ebf2e0"/>
+          <topic label="c_str" href="d0/dcd/class_nyx_1_1_t_fixed_string_3_01char_00_01_string_size_01_4.html#a294fbf6d2d07b3ba2968017b34a43a83"/>
+          <topic label="c_str" href="d0/dcd/class_nyx_1_1_t_fixed_string_3_01char_00_01_string_size_01_4.html#adea03959a1379cce960ec455c77307b7"/>
+          <topic label="Clear" href="d0/dcd/class_nyx_1_1_t_fixed_string_3_01char_00_01_string_size_01_4.html#aef410195f1e53ccb74a4de9a5309d391"/>
+          <topic label="Format" href="d0/dcd/class_nyx_1_1_t_fixed_string_3_01char_00_01_string_size_01_4.html#a234a122b394bd40203be6455311131f3"/>
+          <topic label="Length" href="d0/dcd/class_nyx_1_1_t_fixed_string_3_01char_00_01_string_size_01_4.html#a0136ae3ba991127d6c814fcc4263b5a4"/>
+          <topic label="operator+=" href="d0/dcd/class_nyx_1_1_t_fixed_string_3_01char_00_01_string_size_01_4.html#a6033d635fea2d1b9eab64bd8b19cf02c"/>
+          <topic label="SetLength" href="d0/dcd/class_nyx_1_1_t_fixed_string_3_01char_00_01_string_size_01_4.html#a421ea511374b39ff0abacfa10dbfb4f7"/>
+          <topic label="Size" href="d0/dcd/class_nyx_1_1_t_fixed_string_3_01char_00_01_string_size_01_4.html#aa525890059a35edd50dfc5966eb4de41"/>
+          <topic label="m_Buffer" href="d0/dcd/class_nyx_1_1_t_fixed_string_3_01char_00_01_string_size_01_4.html#a9883bee7c9234c29cdba303180ee5aff"/>
+          <topic label="m_pEndPtr" href="d0/dcd/class_nyx_1_1_t_fixed_string_3_01char_00_01_string_size_01_4.html#a3d6e8696bca4d3321d64e070efe23c4f"/>
+        </topic>
+        <topic label="TFixedString&lt; wchar_t, StringSize &gt;" href="d3/da8/class_nyx_1_1_t_fixed_string_3_01wchar__t_00_01_string_size_01_4.html">
+          <topic label="TFixedString" href="d3/da8/class_nyx_1_1_t_fixed_string_3_01wchar__t_00_01_string_size_01_4.html#afd6a40005f536f03b9a84448705d49a5"/>
+          <topic label="~TFixedString" href="d3/da8/class_nyx_1_1_t_fixed_string_3_01wchar__t_00_01_string_size_01_4.html#a48088db7205e5afd2b0665991331d097"/>
+          <topic label="c_str" href="d3/da8/class_nyx_1_1_t_fixed_string_3_01wchar__t_00_01_string_size_01_4.html#adcef92c2e8f26c5adf693ae298b7a626"/>
+          <topic label="c_str" href="d3/da8/class_nyx_1_1_t_fixed_string_3_01wchar__t_00_01_string_size_01_4.html#a57b14c31debfb2ae33d97474dff8b15b"/>
+          <topic label="Clear" href="d3/da8/class_nyx_1_1_t_fixed_string_3_01wchar__t_00_01_string_size_01_4.html#a1d0b57af8c1c47853fc23e127d430671"/>
+          <topic label="Length" href="d3/da8/class_nyx_1_1_t_fixed_string_3_01wchar__t_00_01_string_size_01_4.html#a61a1df576fcaaecab93840ea5acb7a6e"/>
+          <topic label="operator+=" href="d3/da8/class_nyx_1_1_t_fixed_string_3_01wchar__t_00_01_string_size_01_4.html#a5afda099d7eff9bbc55ed3197accf092"/>
+          <topic label="SetLength" href="d3/da8/class_nyx_1_1_t_fixed_string_3_01wchar__t_00_01_string_size_01_4.html#a3248e1bfcb0b99edf53d2cb00caef2c2"/>
+          <topic label="Size" href="d3/da8/class_nyx_1_1_t_fixed_string_3_01wchar__t_00_01_string_size_01_4.html#a423adc15d4aed412777781fba1d65bcb"/>
+          <topic label="m_Buffer" href="d3/da8/class_nyx_1_1_t_fixed_string_3_01wchar__t_00_01_string_size_01_4.html#aa6ef9ce7250a2ce79c0aa398de1679ee"/>
+          <topic label="m_pEndPtr" href="d3/da8/class_nyx_1_1_t_fixed_string_3_01wchar__t_00_01_string_size_01_4.html#aff677bb37195188160f3e5f34072ff94"/>
+        </topic>
+        <topic label="CInterfaceRef" href="d7/dea/class_nyx_1_1_c_interface_ref.html">
+          <topic label="CInterfaceRef" href="d7/dea/class_nyx_1_1_c_interface_ref.html#aeee97fb57cb68b8c4db7ffd50e542147"/>
+          <topic label="CInterfaceRef" href="d7/dea/class_nyx_1_1_c_interface_ref.html#ab75a32dc85df606145e16f88e98c2757"/>
+          <topic label="CInterfaceRef" href="d7/dea/class_nyx_1_1_c_interface_ref.html#a1419bdbe31a8778ff086d004d7bfc8d0"/>
+          <topic label="~CInterfaceRef" href="d7/dea/class_nyx_1_1_c_interface_ref.html#a12c86c98b78f82f22a53f74e3eb98e79"/>
+          <topic label="operator-&gt;" href="d7/dea/class_nyx_1_1_c_interface_ref.html#a754dca2d18eb150b4b82dfab3cc2764a"/>
+          <topic label="operator-&gt;" href="d7/dea/class_nyx_1_1_c_interface_ref.html#af17bc022cf77004772a61b0c05786d55"/>
+          <topic label="operator=" href="d7/dea/class_nyx_1_1_c_interface_ref.html#a63d28d35d3820bd9cbc5a70af245e6e5"/>
+          <topic label="operator=" href="d7/dea/class_nyx_1_1_c_interface_ref.html#a6a86cb7436c4aa1efb3c37b48ddf1b2a"/>
+          <topic label="Release" href="d7/dea/class_nyx_1_1_c_interface_ref.html#aaf02cc5ea51e6502608a5ad68602988e"/>
+          <topic label="Set" href="d7/dea/class_nyx_1_1_c_interface_ref.html#ad11f3d40f257b1f3300b08e94e818f4c"/>
+          <topic label="Valid" href="d7/dea/class_nyx_1_1_c_interface_ref.html#a4e2d22bce8307214e15b4f6f714ed8e6"/>
+          <topic label="m_pInterface" href="d7/dea/class_nyx_1_1_c_interface_ref.html#a8445922f8ae2ef967152eba81a5efc89"/>
+          <topic label="m_pOwner" href="d7/dea/class_nyx_1_1_c_interface_ref.html#a3c21b0ba81a19b243d162991382cfadf"/>
+        </topic>
+        <topic label="CLocalTime" href="dc/d95/class_nyx_1_1_c_local_time.html">
+          <topic label="CLocalTime" href="dc/d95/class_nyx_1_1_c_local_time.html#a94738cfb0c468245f24c9023e1c31fe3"/>
+          <topic label="CLocalTime" href="dc/d95/class_nyx_1_1_c_local_time.html#ae0e5e65df4c98bb69203131299546fbb"/>
+          <topic label="CLocalTime" href="dc/d95/class_nyx_1_1_c_local_time.html#af3bdf3e0004bf9767e23e1d90f97a0a0"/>
+          <topic label="~CLocalTime" href="dc/d95/class_nyx_1_1_c_local_time.html#acb70d67f92abe6059490008a5db82ad3"/>
+          <topic label="FromSeconds" href="dc/d95/class_nyx_1_1_c_local_time.html#a619e50e7d1e21c5c829c0bb093b49c50"/>
+          <topic label="Get" href="dc/d95/class_nyx_1_1_c_local_time.html#a42b48182ae90b7a1c3596d68ff9c0004"/>
+          <topic label="GetString" href="dc/d95/class_nyx_1_1_c_local_time.html#a555dbd3912b1d7bd45102207eaf608ea"/>
+          <topic label="Hours" href="dc/d95/class_nyx_1_1_c_local_time.html#adfce323ce2f307fd7b163529289e589e"/>
+          <topic label="Minutes" href="dc/d95/class_nyx_1_1_c_local_time.html#a5fcfc860bdca1454d21c55f3b31d2f71"/>
+          <topic label="operator=" href="dc/d95/class_nyx_1_1_c_local_time.html#a8426cae6378adf81e945106e66687c09"/>
+          <topic label="Seconds" href="dc/d95/class_nyx_1_1_c_local_time.html#ad36c3ebc5fd72acf437903a952019cc6"/>
+          <topic label="ToSeconds" href="dc/d95/class_nyx_1_1_c_local_time.html#a4ae5633293fe86a95543af0a55f0659f"/>
+          <topic label="Valid" href="dc/d95/class_nyx_1_1_c_local_time.html#a5cfab5118efca1521766276b0d15caa9"/>
+          <topic label="m_Hours" href="dc/d95/class_nyx_1_1_c_local_time.html#a03e061ad710ffa7976ed4308c1ac1191"/>
+          <topic label="m_Min" href="dc/d95/class_nyx_1_1_c_local_time.html#a2f626dcfdb4e61007311c89fb025cec4"/>
+          <topic label="m_Sec" href="dc/d95/class_nyx_1_1_c_local_time.html#aa674d7b4059c67800fff6d52a62451c1"/>
+          <topic label="m_ValidityFlag" href="dc/d95/class_nyx_1_1_c_local_time.html#a3f2f9a30e86129029fd3e15a5519e2f0"/>
+        </topic>
+        <topic label="TLock" href="da/d3e/class_nyx_1_1_t_lock.html">
+          <topic label="TLock" href="da/d3e/class_nyx_1_1_t_lock.html#a8ccfcf8bd8b67f964fa2baad0189eb5c"/>
+          <topic label="~TLock" href="da/d3e/class_nyx_1_1_t_lock.html#ae94ed33ca8d94535320f3703ec1b4b9a"/>
+          <topic label="Lock" href="da/d3e/class_nyx_1_1_t_lock.html#add16f41f465659937720efba98084c37"/>
+          <topic label="m_bOwn" href="da/d3e/class_nyx_1_1_t_lock.html#af91ef09e40ba492da6dff5c06dd9883a"/>
+          <topic label="m_refObj" href="da/d3e/class_nyx_1_1_t_lock.html#ae6f39e26fbaccbdcad0cc3296131242a"/>
+        </topic>
+        <topic label="CMemoryPool" href="df/d80/class_nyx_1_1_c_memory_pool.html">
+          <topic label="Alloc" href="df/d80/class_nyx_1_1_c_memory_pool.html#af5b2a45ece310f20f3aa058a61c677a8"/>
+          <topic label="AllocMem" href="df/d80/class_nyx_1_1_c_memory_pool.html#a7043df1f1a7a1695064d63adb964e2be"/>
+          <topic label="Clear" href="df/d80/class_nyx_1_1_c_memory_pool.html#a6a6710548f1c547023dfc17355742a07"/>
+          <topic label="FreeMem" href="df/d80/class_nyx_1_1_c_memory_pool.html#a1d88c1041873ec4919589ea21a202207"/>
+        </topic>
+        <topic label="CMemPoolObjDummyBase" href="d4/d1e/class_nyx_1_1_c_mem_pool_obj_dummy_base.html">
+          <topic label="CMemPoolObjDummyBase" href="d4/d1e/class_nyx_1_1_c_mem_pool_obj_dummy_base.html#a397452ea3701544dafa9d4d1049d74b9"/>
+        </topic>
+        <topic label="CMemPoolObj" href="d7/de5/class_nyx_1_1_c_mem_pool_obj.html">
+          <topic label="CMemPoolObj" href="d7/de5/class_nyx_1_1_c_mem_pool_obj.html#a3aa47ad2285012dbe8eb9f67b9dd6af1"/>
+          <topic label="~CMemPoolObj" href="d7/de5/class_nyx_1_1_c_mem_pool_obj.html#a525fdad67fa93fd6a36c53b0847ca8b8"/>
+          <topic label="MemoryPool" href="d7/de5/class_nyx_1_1_c_mem_pool_obj.html#a7eaa42796192dc62de47ad8e03f15a89"/>
+          <topic label="operator delete" href="d7/de5/class_nyx_1_1_c_mem_pool_obj.html#a398e92bfb9bf9f16214a063d35567bd5"/>
+          <topic label="operator delete" href="d7/de5/class_nyx_1_1_c_mem_pool_obj.html#adb1dd52d66c34b6640a5083c01280c93"/>
+          <topic label="operator new" href="d7/de5/class_nyx_1_1_c_mem_pool_obj.html#ab201cba2d8b5e01e5369835b2a76c429"/>
+        </topic>
+        <topic label="CMemPoolWString" href="d1/d31/class_nyx_1_1_c_mem_pool_w_string.html">
+          <topic label="CMemPoolWString" href="d1/d31/class_nyx_1_1_c_mem_pool_w_string.html#aa5b6558df0a01f2e681b5e35df9d5643"/>
+          <topic label="~CMemPoolWString" href="d1/d31/class_nyx_1_1_c_mem_pool_w_string.html#a6aa67975e17ed3e6c7dfd04285cff782"/>
+          <topic label="operator=" href="d1/d31/class_nyx_1_1_c_mem_pool_w_string.html#a46a540350238f3f389ec4ac5354d3f06"/>
+          <topic label="operator=" href="d1/d31/class_nyx_1_1_c_mem_pool_w_string.html#ae6747b00a55a0643da5dfd48da9780ae"/>
+        </topic>
+        <topic label="TStringBufferPtr" href="d5/ddb/union_nyx_1_1_t_string_buffer_ptr.html">
+          <topic label="pChar" href="d5/ddb/union_nyx_1_1_t_string_buffer_ptr.html#ab370d30ae9db10bf93fc2fe781ab5efc"/>
+          <topic label="pConstChar" href="d5/ddb/union_nyx_1_1_t_string_buffer_ptr.html#a3d7413c6f79c1a8f7634858c12aa17a9"/>
+          <topic label="pConstWChar" href="d5/ddb/union_nyx_1_1_t_string_buffer_ptr.html#a9f555d77589791139ff0b0cb822cc951"/>
+          <topic label="pData" href="d5/ddb/union_nyx_1_1_t_string_buffer_ptr.html#ae39e56c529378bd1c0382b79caf328d5"/>
+          <topic label="pWChar" href="d5/ddb/union_nyx_1_1_t_string_buffer_ptr.html#aa6b81e030eefe2157947db043298ca03"/>
+        </topic>
+        <topic label="TStringFlags" href="dc/d40/struct_nyx_1_1_t_string_flags.html">
+          <topic label="TStringFlags" href="dc/d40/struct_nyx_1_1_t_string_flags.html#a57aa8b6d897a2e86b799b5cc3689ae03"/>
+          <topic label="Clear" href="dc/d40/struct_nyx_1_1_t_string_flags.html#a315f5abd81d15a55bd952698a6bf4f3e"/>
+          <topic label="fAnsi" href="dc/d40/struct_nyx_1_1_t_string_flags.html#a52b74694aa2007af3dc5202a5f52eeec"/>
+          <topic label="fDynAllocated" href="dc/d40/struct_nyx_1_1_t_string_flags.html#afa6e3281cf4d0391653b68b9ebd5dc90"/>
+          <topic label="fFixedSize" href="dc/d40/struct_nyx_1_1_t_string_flags.html#a0e97ed2b19bd432230fc813f25002b04"/>
+          <topic label="fMutable" href="dc/d40/struct_nyx_1_1_t_string_flags.html#a5ded5c602709e0b733094b7f3107814e"/>
+          <topic label="fWideChar" href="dc/d40/struct_nyx_1_1_t_string_flags.html#a7d472de7428a7aa8cf1c9ef184ef5c3d"/>
+        </topic>
+        <topic label="CMFString" href="de/d88/class_nyx_1_1_c_m_f_string.html">
+          <topic label="CMFString" href="de/d88/class_nyx_1_1_c_m_f_string.html#a755838d64b89624aa36a25ef6163615c"/>
+          <topic label="CMFString" href="de/d88/class_nyx_1_1_c_m_f_string.html#aaa659dad8a74fd03a97d82dbf6566c1f"/>
+          <topic label="CMFString" href="de/d88/class_nyx_1_1_c_m_f_string.html#a79eb3e48691563e85dafe9a93ce3bb0e"/>
+          <topic label="CMFString" href="de/d88/class_nyx_1_1_c_m_f_string.html#a149dae17f2ecca7ebefd68d98f08a3a6"/>
+          <topic label="CMFString" href="de/d88/class_nyx_1_1_c_m_f_string.html#ab902009afb6bde4046ca69b90efca536"/>
+          <topic label="CMFString" href="de/d88/class_nyx_1_1_c_m_f_string.html#ae412cf12dd1f7a31c74ef2f87e1dcceb"/>
+          <topic label="~CMFString" href="de/d88/class_nyx_1_1_c_m_f_string.html#a06ef95ce9e2fc8b8125b722e0f660fc2"/>
+          <topic label="Add" href="de/d88/class_nyx_1_1_c_m_f_string.html#aeea6e3a8d47b35dfe0c83c6e004802ec"/>
+          <topic label="Add" href="de/d88/class_nyx_1_1_c_m_f_string.html#a799ef5dcf22f76545d9b425613d2b53f"/>
+          <topic label="Add" href="de/d88/class_nyx_1_1_c_m_f_string.html#ab5cc5d99d48a1bbc61dd19a76ed801a6"/>
+          <topic label="Add" href="de/d88/class_nyx_1_1_c_m_f_string.html#a7ed332ba08a0a6f4ad014e1134c27b6b"/>
+          <topic label="Add" href="de/d88/class_nyx_1_1_c_m_f_string.html#a79f0cd1a0eda76022f6c8d53209c2b02"/>
+          <topic label="Append" href="de/d88/class_nyx_1_1_c_m_f_string.html#a704fbd555492650cb2ed6758cd75eff7"/>
+          <topic label="Append" href="de/d88/class_nyx_1_1_c_m_f_string.html#a5483a23a61b09cbef73582c782492b5f"/>
+          <topic label="Append" href="de/d88/class_nyx_1_1_c_m_f_string.html#a81ffab2255c19993c772ac62f0169c8e"/>
+          <topic label="AString" href="de/d88/class_nyx_1_1_c_m_f_string.html#a290b6310e621d0806b6b5961c3844105"/>
+          <topic label="AString" href="de/d88/class_nyx_1_1_c_m_f_string.html#ae4b8b3a2325e8040d080b9861900d550"/>
+          <topic label="BufferLen" href="de/d88/class_nyx_1_1_c_m_f_string.html#abcf6c808af9e3492d836a6bfd7154ea3"/>
+          <topic label="CanResize" href="de/d88/class_nyx_1_1_c_m_f_string.html#a4121850d734af2fcc464d9cebee50ec4"/>
+          <topic label="FromCharToWideChar" href="de/d88/class_nyx_1_1_c_m_f_string.html#ad8815fcb32741317e59807a58a193a18"/>
+          <topic label="FromWideCharToChar" href="de/d88/class_nyx_1_1_c_m_f_string.html#a84d0b41b0beed48aa6baba03bb1e284c"/>
+          <topic label="IsAnsiString" href="de/d88/class_nyx_1_1_c_m_f_string.html#ae98885bafd715a55f7dc709731fe8807"/>
+          <topic label="IsSameFormat" href="de/d88/class_nyx_1_1_c_m_f_string.html#a8872aa387476fe0a3cbfd123db7d895e"/>
+          <topic label="IsWideString" href="de/d88/class_nyx_1_1_c_m_f_string.html#a87afa3aae90f72ef79036fd144fa71bd"/>
+          <topic label="LenToSize" href="de/d88/class_nyx_1_1_c_m_f_string.html#a8475b9ce9e49c2e1857f3590b24d1548"/>
+          <topic label="operator+" href="de/d88/class_nyx_1_1_c_m_f_string.html#a780b818c314c45bcb09fa6fde64f4429"/>
+          <topic label="operator+" href="de/d88/class_nyx_1_1_c_m_f_string.html#a9010d49a569cc79c02720d93fd3b6b86"/>
+          <topic label="operator+" href="de/d88/class_nyx_1_1_c_m_f_string.html#a9b3732a128726e87fa59a576e8aa78f8"/>
+          <topic label="operator+=" href="de/d88/class_nyx_1_1_c_m_f_string.html#a6b35c00c547d6bf342a21a703ff7d30f"/>
+          <topic label="operator+=" href="de/d88/class_nyx_1_1_c_m_f_string.html#abbe39a9532283ed8e6bb9da399c72f4d"/>
+          <topic label="operator+=" href="de/d88/class_nyx_1_1_c_m_f_string.html#add7defbc26efeb85573d8be796b317b6"/>
+          <topic label="operator=" href="de/d88/class_nyx_1_1_c_m_f_string.html#a6241e5c2e9bf01ac88e152de21db50f1"/>
+          <topic label="operator=" href="de/d88/class_nyx_1_1_c_m_f_string.html#ae230cd8444a5b18fafe56751c8b6d42c"/>
+          <topic label="operator=" href="de/d88/class_nyx_1_1_c_m_f_string.html#a9230d6ef7cfaf41d8915ffb8159dd07e"/>
+          <topic label="operator=" href="de/d88/class_nyx_1_1_c_m_f_string.html#a16e4413240baa156da5a85d7691a0913"/>
+          <topic label="ReleaseBuffer" href="de/d88/class_nyx_1_1_c_m_f_string.html#aa471337ddb07ed6127f45ff4f0aa92e5"/>
+          <topic label="Reserve" href="de/d88/class_nyx_1_1_c_m_f_string.html#a8afe522b8774622acfdbaf701f69e6f7"/>
+          <topic label="Resize" href="de/d88/class_nyx_1_1_c_m_f_string.html#af7741d83581c2a1cbf96c99d11bb62cf"/>
+          <topic label="Set" href="de/d88/class_nyx_1_1_c_m_f_string.html#abfc7f46cdb726e63f339c0a4e8bcbbdf"/>
+          <topic label="Set" href="de/d88/class_nyx_1_1_c_m_f_string.html#a1b1822227296e42d72334babb3a99a47"/>
+          <topic label="Set" href="de/d88/class_nyx_1_1_c_m_f_string.html#a5091dc6e0dccf5b3aa8ccc72a400c0c7"/>
+          <topic label="Size" href="de/d88/class_nyx_1_1_c_m_f_string.html#aff64035fdc01bfb5416f5c8ed54bbdc9"/>
+          <topic label="WString" href="de/d88/class_nyx_1_1_c_m_f_string.html#a110305fd137bc3fdc32546e29c5194e2"/>
+          <topic label="WString" href="de/d88/class_nyx_1_1_c_m_f_string.html#a79b5783d987459f81fd051df2cd4b663"/>
+          <topic label="CAString" href="de/d88/class_nyx_1_1_c_m_f_string.html#a926aebdf19f751b6d91deeb5822da1fd"/>
+          <topic label="CWString" href="de/d88/class_nyx_1_1_c_m_f_string.html#affe16b0fb07c732037547e145f3d183f"/>
+          <topic label="m_Buffer" href="de/d88/class_nyx_1_1_c_m_f_string.html#a85ed321a12ba884f8c60cfe441d1313f"/>
+          <topic label="m_BufferSize" href="de/d88/class_nyx_1_1_c_m_f_string.html#a74106c4dcb1ea9085a3ec0d8eedbc923"/>
+          <topic label="m_Flags" href="de/d88/class_nyx_1_1_c_m_f_string.html#a497852595613c19cfb0f19adc5ecae3e"/>
+        </topic>
+        <topic label="CMFStringRef" href="d2/d1e/class_nyx_1_1_c_m_f_string_ref.html">
+          <topic label="CMFStringRef" href="d2/d1e/class_nyx_1_1_c_m_f_string_ref.html#a4af2555f61c3e61236c6addf86e55bb4"/>
+          <topic label="CMFStringRef" href="d2/d1e/class_nyx_1_1_c_m_f_string_ref.html#a52e8fdea0f619d1fdfb2cdcf5a2aeea5"/>
+          <topic label="CMFString" href="d2/d1e/class_nyx_1_1_c_m_f_string_ref.html#a25d6b523e2bd72dd24ecc365946dfd04"/>
+        </topic>
+        <topic label="CMFTmpString" href="df/dda/class_nyx_1_1_c_m_f_tmp_string.html">
+          <topic label="CMFTmpString" href="df/dda/class_nyx_1_1_c_m_f_tmp_string.html#a3382cfd24b745a76a9f53ab1e26fa5df"/>
+          <topic label="CMFTmpString" href="df/dda/class_nyx_1_1_c_m_f_tmp_string.html#a58db419446a5a5e2a24eac9540d7c443"/>
+          <topic label="~CMFTmpString" href="df/dda/class_nyx_1_1_c_m_f_tmp_string.html#a17d42ff222463931cdad0adf0a51e38c"/>
+        </topic>
+        <topic label="CModule" href="d4/dd4/class_nyx_1_1_c_module.html">
+          <topic label="Alloc" href="d4/dd4/class_nyx_1_1_c_module.html#ad4ebf0b0f6af3133ec16d1c352f652c6"/>
+          <topic label="GetDefault" href="d4/dd4/class_nyx_1_1_c_module.html#aff00da98349f6e0d073ac5c44dbd4e19"/>
+          <topic label="Init" href="d4/dd4/class_nyx_1_1_c_module.html#a619b9ef7d3529b80b4c7a035fee7cb97"/>
+          <topic label="Terminate" href="d4/dd4/class_nyx_1_1_c_module.html#acfb0c5d0c8b30d95f07733aa8e404b7e"/>
+          <topic label="Threads" href="d4/dd4/class_nyx_1_1_c_module.html#ad45c09a159d9bbb27a72ab6a17a41ee8"/>
+          <topic label="Traces" href="d4/dd4/class_nyx_1_1_c_module.html#a97e8534e3ff0a7d0dab1604d4e71e365"/>
+        </topic>
+        <topic label="CMsg" href="d7/d73/class_nyx_1_1_c_msg.html">
+          <topic label="Id" href="d7/d73/class_nyx_1_1_c_msg.html#a9f69e92470059df08f2daf62bca662d7"/>
+        </topic>
+        <topic label="CMsgHandler" href="d9/d6e/class_nyx_1_1_c_msg_handler.html">
+          <topic label="HandleMessage" href="d9/d6e/class_nyx_1_1_c_msg_handler.html#a981cb723cd2c51b00facf2ad39c591dd"/>
+        </topic>
+        <topic label="CMsgHandlers" href="d1/d96/class_nyx_1_1_c_msg_handlers.html">
+          <topic label="Add" href="d1/d96/class_nyx_1_1_c_msg_handlers.html#a67ff8a06433ee240b11691e50a5d994d"/>
+          <topic label="Alloc" href="d1/d96/class_nyx_1_1_c_msg_handlers.html#afcbfb5f540e894887ba208a46a57b635"/>
+          <topic label="Get" href="d1/d96/class_nyx_1_1_c_msg_handlers.html#a21ae04536e866872c29b0248ede0cd09"/>
+          <topic label="Remove" href="d1/d96/class_nyx_1_1_c_msg_handlers.html#a2480cc023c7e45aeb96a69632a913ed5"/>
+        </topic>
+        <topic label="CMsgQueue" href="d2/d78/class_nyx_1_1_c_msg_queue.html">
+          <topic label="Alloc" href="d2/d78/class_nyx_1_1_c_msg_queue.html#a00679859b5cb253925e22bb58718a9ab"/>
+          <topic label="Pop" href="d2/d78/class_nyx_1_1_c_msg_queue.html#a236e8ca92356001d2000330fc42ba956"/>
+          <topic label="Push" href="d2/d78/class_nyx_1_1_c_msg_queue.html#a54a99dfc8e4f5d1cf586159311916a5e"/>
+          <topic label="SetHandler" href="d2/d78/class_nyx_1_1_c_msg_queue.html#a5c90984cac1343d55fed64bbc136ac7f"/>
+        </topic>
+        <topic label="IMsgQueueEventHandler" href="dc/d83/class_nyx_1_1_i_msg_queue_event_handler.html">
+          <topic label="OnMessageReceived" href="dc/d83/class_nyx_1_1_i_msg_queue_event_handler.html#aee0d72a786f1ac2f722ae1b1291e7915"/>
+        </topic>
+        <topic label="CMutex" href="d2/dc5/class_nyx_1_1_c_mutex.html">
+          <topic label="Alloc" href="d2/dc5/class_nyx_1_1_c_mutex.html#aee3e4b96a1fb95c5345c3a10b0aac834"/>
+          <topic label="AttemptLock" href="d2/dc5/class_nyx_1_1_c_mutex.html#a843be4ccc6559ef3037ce76f28a7a387"/>
+          <topic label="Lock" href="d2/dc5/class_nyx_1_1_c_mutex.html#a3d9fd73d947264815f3cc2e5271fd9cb"/>
+          <topic label="Unlock" href="d2/dc5/class_nyx_1_1_c_mutex.html#a4b6161dae77be0b3ce0ef2121f514a22"/>
+        </topic>
+        <topic label="CObject" href="d7/dca/class_nyx_1_1_c_object.html">
+          <topic label="CObject" href="d7/dca/class_nyx_1_1_c_object.html#ab132b861f7ec37aace07dbfd23026ed2"/>
+          <topic label="~CObject" href="d7/dca/class_nyx_1_1_c_object.html#aa149666fb7c7e1e64cc2b8e1b95335cc"/>
+          <topic label="Release" href="d7/dca/class_nyx_1_1_c_object.html#a52a55ccd31f467080ea90bd3c4a27a75"/>
+          <topic label="Retain" href="d7/dca/class_nyx_1_1_c_object.html#a7553643afbc7a9e04057ec0b70bc3696"/>
+        </topic>
+        <topic label="CObject_Impl" href="d2/d46/class_nyx_1_1_c_object___impl.html">
+          <topic label="CObject_Impl" href="d2/d46/class_nyx_1_1_c_object___impl.html#a865c91826b63d2ab2cf87b517824cd0a"/>
+          <topic label="~CObject_Impl" href="d2/d46/class_nyx_1_1_c_object___impl.html#a9da88c0e30a7ce30a6dbabc035844de6"/>
+        </topic>
+        <topic label="CObjectsPool" href="d8/db2/class_nyx_1_1_c_objects_pool.html">
+          <topic label="Alloc" href="d8/db2/class_nyx_1_1_c_objects_pool.html#aba6d8dcfa90f55394791ff1f9b85cdb6"/>
+        </topic>
+        <topic label="CRange" href="d9/d04/class_nyx_1_1_c_range.html">
+          <topic label="CRange" href="d9/d04/class_nyx_1_1_c_range.html#ada6ad65986b706cfc62a8cc39452bd65"/>
+          <topic label="CRange" href="d9/d04/class_nyx_1_1_c_range.html#add9040f1cf610bf704c7bf70b50769f5"/>
+          <topic label="CRange" href="d9/d04/class_nyx_1_1_c_range.html#a47bb0936e407cc1034736ba3ac1bbcf8"/>
+          <topic label="IsEmpty" href="d9/d04/class_nyx_1_1_c_range.html#a23d59b8bfd029ebef20ccb7501903b50"/>
+          <topic label="Length" href="d9/d04/class_nyx_1_1_c_range.html#a2be4f12bbd5b10b8f7997727486533ce"/>
+          <topic label="Length" href="d9/d04/class_nyx_1_1_c_range.html#abf18c34dbac9f363e3fc24275691dfb1"/>
+          <topic label="operator=" href="d9/d04/class_nyx_1_1_c_range.html#ae858e8dbf02b6b819ee9e293032c12b4"/>
+          <topic label="Start" href="d9/d04/class_nyx_1_1_c_range.html#af4133147eeef0f06fff9bee144da179c"/>
+          <topic label="Start" href="d9/d04/class_nyx_1_1_c_range.html#abfee2bdce099e88472b2dfc2dc2d2078"/>
+          <topic label="m_Length" href="d9/d04/class_nyx_1_1_c_range.html#abba73751372108f2f2e32c7d5ede48ca"/>
+          <topic label="m_Start" href="d9/d04/class_nyx_1_1_c_range.html#a2c6de4419999f379f98eb2c4e6eaccf3"/>
+        </topic>
+        <topic label="CRef" href="d0/d97/class_nyx_1_1_c_ref.html">
+          <topic label="CRef" href="d0/d97/class_nyx_1_1_c_ref.html#a9c27b2c230329f682217c5d3791cd466"/>
+          <topic label="CRef" href="d0/d97/class_nyx_1_1_c_ref.html#abd524aab39698fc968060e02dfa51455"/>
+          <topic label="CRef" href="d0/d97/class_nyx_1_1_c_ref.html#acd7fe31b35c1951e978e9191a25d8c04"/>
+          <topic label="~CRef" href="d0/d97/class_nyx_1_1_c_ref.html#a598ba317db9b93ef37cae65a461bec30"/>
+          <topic label="operator const TYPE &amp;" href="d0/d97/class_nyx_1_1_c_ref.html#a71688d398bae559a1dea3eda1fd5a91d"/>
+          <topic label="operator TYPE &amp;" href="d0/d97/class_nyx_1_1_c_ref.html#a42097bdb8191a28c159c50fcc8b7fd0d"/>
+          <topic label="operator TYPE *" href="d0/d97/class_nyx_1_1_c_ref.html#a9761e045375208c16a034bd0ef65a656"/>
+          <topic label="operator TYPE *" href="d0/d97/class_nyx_1_1_c_ref.html#a0c4483087c6262fb349e210374ec3efe"/>
+          <topic label="operator-&gt;" href="d0/d97/class_nyx_1_1_c_ref.html#a16e11cc0e33b64bb42bc941f91877cde"/>
+          <topic label="operator-&gt;" href="d0/d97/class_nyx_1_1_c_ref.html#a2e988fcce5997625382e08a26d508f8b"/>
+          <topic label="operator=" href="d0/d97/class_nyx_1_1_c_ref.html#a6118c622adee7bfb4617b9350384596e"/>
+          <topic label="operator=" href="d0/d97/class_nyx_1_1_c_ref.html#a021a751c114b8109255bd6f641234bec"/>
+          <topic label="operator=" href="d0/d97/class_nyx_1_1_c_ref.html#afa49a8a8864b04a29d4f343f36601c97"/>
+          <topic label="operator==" href="d0/d97/class_nyx_1_1_c_ref.html#a09c14ab29ee12f8645ea35609d6cba17"/>
+          <topic label="Release" href="d0/d97/class_nyx_1_1_c_ref.html#a4893f7e5e1675d4343356b1621a67a35"/>
+          <topic label="Valid" href="d0/d97/class_nyx_1_1_c_ref.html#aef2ba87e0451186fd9da003868ff11b1"/>
+          <topic label="m_pObj" href="d0/d97/class_nyx_1_1_c_ref.html#a18decf370d6213ccb3484f236334f872"/>
+        </topic>
+        <topic label="CConstRef" href="d6/d72/class_nyx_1_1_c_const_ref.html">
+          <topic label="CConstRef" href="d6/d72/class_nyx_1_1_c_const_ref.html#a0b69722d6b4da44657193dab81e9b4a3"/>
+          <topic label="CConstRef" href="d6/d72/class_nyx_1_1_c_const_ref.html#a70af3a7c996bdd207c8aacbad588829e"/>
+          <topic label="CConstRef" href="d6/d72/class_nyx_1_1_c_const_ref.html#a346663c2c1c009912b2c60ec39a4b2c3"/>
+          <topic label="~CConstRef" href="d6/d72/class_nyx_1_1_c_const_ref.html#a7e899b8aff4e4d48d69e183d11bd1335"/>
+          <topic label="operator const TYPE &amp;" href="d6/d72/class_nyx_1_1_c_const_ref.html#ab05a3507dc568d1b8b9efae66274e968"/>
+          <topic label="operator const TYPE *" href="d6/d72/class_nyx_1_1_c_const_ref.html#a88dd90577df89742fcc3e7f213faff2a"/>
+          <topic label="operator-&gt;" href="d6/d72/class_nyx_1_1_c_const_ref.html#a7f8fde2c8bb39a3d68fc0d0bae2bb006"/>
+          <topic label="operator=" href="d6/d72/class_nyx_1_1_c_const_ref.html#a7ae12d6d974306c45f715923a05c257c"/>
+          <topic label="operator=" href="d6/d72/class_nyx_1_1_c_const_ref.html#a8bb572cadeb532a65beb76b2ec03729e"/>
+          <topic label="operator==" href="d6/d72/class_nyx_1_1_c_const_ref.html#a06167ba3472e0b7171ab70344b0fb3cc"/>
+          <topic label="Release" href="d6/d72/class_nyx_1_1_c_const_ref.html#a662adf6912c577e3470a8b85f37187f4"/>
+          <topic label="Valid" href="d6/d72/class_nyx_1_1_c_const_ref.html#a81f4a98ed72f9817b336b991acdd9e7d"/>
+          <topic label="m_pObj" href="d6/d72/class_nyx_1_1_c_const_ref.html#aca712f74c3cd51d410838816aaa93e96"/>
+        </topic>
+        <topic label="CRefCount_Impl_DummyBase" href="dc/d01/class_nyx_1_1_c_ref_count___impl___dummy_base.html">
+          <topic label="CRefCount_Impl_DummyBase" href="dc/d01/class_nyx_1_1_c_ref_count___impl___dummy_base.html#a628b2f28dac0c11045b854e1c9610159"/>
+          <topic label="~CRefCount_Impl_DummyBase" href="dc/d01/class_nyx_1_1_c_ref_count___impl___dummy_base.html#a21b5aba8990414a2b7a4ef214af0c2a9"/>
+        </topic>
+        <topic label="CRefCount_Impl" href="d7/d1b/class_nyx_1_1_c_ref_count___impl.html">
+          <topic label="CRefCount_Impl" href="d7/d1b/class_nyx_1_1_c_ref_count___impl.html#acbfc126fd55c6e43f3dce003f08b1370"/>
+          <topic label="~CRefCount_Impl" href="d7/d1b/class_nyx_1_1_c_ref_count___impl.html#a909a03fd955320fff70d18ae5cd01a1a"/>
+          <topic label="Release" href="d7/d1b/class_nyx_1_1_c_ref_count___impl.html#a1a3bb7bccb290786f3fdb159762a93ed"/>
+          <topic label="Retain" href="d7/d1b/class_nyx_1_1_c_ref_count___impl.html#ad22d852cdfd5ff4819d5fe0365bf8bd6"/>
+        </topic>
+        <topic label="CResException" href="d2/d65/class_nyx_1_1_c_res_exception.html">
+          <topic label="CResException" href="d2/d65/class_nyx_1_1_c_res_exception.html#a2d63305e06bce6620480e41a6ff7aebd"/>
+          <topic label="~CResException" href="d2/d65/class_nyx_1_1_c_res_exception.html#a7218a7dc9cf5ee553c89958246a480d6"/>
+          <topic label="Result" href="d2/d65/class_nyx_1_1_c_res_exception.html#a3e7bf3c2bdf4242f5f2f8caa1ac23a22"/>
+          <topic label="m_Result" href="d2/d65/class_nyx_1_1_c_res_exception.html#a60b76e464d8fbef875803f92befd1442"/>
+        </topic>
+        <topic label="IStreamHandler" href="d0/dab/class_nyx_1_1_i_stream_handler.html">
+          <topic label="HandleStream" href="d0/dab/class_nyx_1_1_i_stream_handler.html#aee46ed37781f211e3ba2e9efcb6d79bf"/>
+        </topic>
+        <topic label="IStreamReader" href="d1/d7b/class_nyx_1_1_i_stream_reader.html">
+          <topic label="Read" href="d1/d7b/class_nyx_1_1_i_stream_reader.html#a519f5b561ecf8aa000ad9536320009f9"/>
+        </topic>
+        <topic label="IStreamRW" href="d1/d9b/class_nyx_1_1_i_stream_r_w.html"/>
+        <topic label="IStreamWriter" href="db/d4f/class_nyx_1_1_i_stream_writer.html">
+          <topic label="Write" href="db/d4f/class_nyx_1_1_i_stream_writer.html#a1018a36bfd74794d866a38b486750fad"/>
+        </topic>
+        <topic label="CTask" href="d3/d02/class_nyx_1_1_c_task.html">
+          <topic label="Execute" href="d3/d02/class_nyx_1_1_c_task.html#a697e0f26e0f64843ed4fd88ca583e7c1"/>
+          <topic label="Stop" href="d3/d02/class_nyx_1_1_c_task.html#abe502c157baf2bea8a43d4315bdca80c"/>
+        </topic>
+        <topic label="CTaskExecuter" href="d2/d40/class_nyx_1_1_c_task_executer.html">
+          <topic label="Execute" href="d2/d40/class_nyx_1_1_c_task_executer.html#a8e5bc03954aaffe6dbb43c48844b1929"/>
+          <topic label="StopCurrentTask" href="d2/d40/class_nyx_1_1_c_task_executer.html#a6f2c27a4183de71ffd0a0cd804ee94fc"/>
+        </topic>
+        <topic label="CTaskExecuterPool" href="db/dfc/class_nyx_1_1_c_task_executer_pool.html">
+          <topic label="Alloc" href="db/dfc/class_nyx_1_1_c_task_executer_pool.html#abeeae35ec94b275654e97fc0a506e6c7"/>
+          <topic label="Execute" href="db/dfc/class_nyx_1_1_c_task_executer_pool.html#a97b71f1787a792391c452d1e0e737725"/>
+          <topic label="StopAllTasks" href="db/dfc/class_nyx_1_1_c_task_executer_pool.html#a7ad3cca279fd77e653dd1fc90713b4cf"/>
+        </topic>
+        <topic label="CTestUnit" href="de/d62/class_nyx_1_1_c_test_unit.html">
+          <topic label="Perform" href="de/d62/class_nyx_1_1_c_test_unit.html#a08a23903672654aa04bfb1f99651e899"/>
+        </topic>
+        <topic label="CTestUnitsGroup" href="de/da7/class_nyx_1_1_c_test_units_group.html">
+          <topic label="TestUnitID" href="de/da7/class_nyx_1_1_c_test_units_group.html#a6180bac23bb02e18c2f39f1c6a5db800"/>
+          <topic label="Add" href="de/da7/class_nyx_1_1_c_test_units_group.html#a87160b971dc91312df80f83afab70362"/>
+          <topic label="Alloc" href="de/da7/class_nyx_1_1_c_test_units_group.html#a2f1e3acd4057f0471813f61dd16fbcbc"/>
+          <topic label="Get" href="de/da7/class_nyx_1_1_c_test_units_group.html#a81935902a9e04e17d9bc7a5808b27012"/>
+          <topic label="Perform" href="de/da7/class_nyx_1_1_c_test_units_group.html#ac1efa93bef6b276658c927219cec9794"/>
+          <topic label="Remove" href="de/da7/class_nyx_1_1_c_test_units_group.html#aa8d893fce40599178973f3002973323d"/>
+        </topic>
+        <topic label="CTextFile" href="d0/df7/class_nyx_1_1_c_text_file.html"/>
+        <topic label="CThread" href="d3/d5a/class_nyx_1_1_c_thread.html">
+          <topic label="Alloc" href="d3/d5a/class_nyx_1_1_c_thread.html#ab265b13b5c3f2eb7a81a71a89262aee7"/>
+          <topic label="GetThreadUserData" href="d3/d5a/class_nyx_1_1_c_thread.html#a3022c180e6378a2fa86309cc788e2aaa"/>
+          <topic label="IsRunning" href="d3/d5a/class_nyx_1_1_c_thread.html#af95149a3670d15a07bf3591244c9b338"/>
+          <topic label="SetThreadUserData" href="d3/d5a/class_nyx_1_1_c_thread.html#a8be0c10df088c6e4d5978dd8f71b9ba6"/>
+          <topic label="Start" href="d3/d5a/class_nyx_1_1_c_thread.html#a59929d058fa652e0757cd4db596e3763"/>
+          <topic label="Stop" href="d3/d5a/class_nyx_1_1_c_thread.html#a7d0f5f50c1f6e4f5971b28d55afeca96"/>
+        </topic>
+        <topic label="CThreadDelegate" href="d3/d6b/class_nyx_1_1_c_thread_delegate.html">
+          <topic label="PFCTProc" href="d3/d6b/class_nyx_1_1_c_thread_delegate.html#ac239ad8e30c09253abd5b8127eb3fded"/>
+          <topic label="CThreadDelegate" href="d3/d6b/class_nyx_1_1_c_thread_delegate.html#ab2adb5d3e36a71cb8c6a414a14f15dec"/>
+          <topic label="~CThreadDelegate" href="d3/d6b/class_nyx_1_1_c_thread_delegate.html#a87aaa907ed651ba08abe70df23b9f89a"/>
+          <topic label="Run" href="d3/d6b/class_nyx_1_1_c_thread_delegate.html#a282c1bf2e5e12a906cda1289fe78d2f2"/>
+          <topic label="Stop" href="d3/d6b/class_nyx_1_1_c_thread_delegate.html#a3836e53784f86d83ffce729e1535f882"/>
+        </topic>
+        <topic label="CThreadDelegateNoRef" href="dc/d82/class_nyx_1_1_c_thread_delegate_no_ref.html">
+          <topic label="PFCTProc" href="dc/d82/class_nyx_1_1_c_thread_delegate_no_ref.html#aa9d5ee528fd5979411a258e22621d2e0"/>
+          <topic label="CThreadDelegateNoRef" href="dc/d82/class_nyx_1_1_c_thread_delegate_no_ref.html#a2e1d690b6c56a49257602b437e87ddfe"/>
+          <topic label="~CThreadDelegateNoRef" href="dc/d82/class_nyx_1_1_c_thread_delegate_no_ref.html#a90a563a91f5f4e1f4cc5a78498d50ea5"/>
+          <topic label="Run" href="dc/d82/class_nyx_1_1_c_thread_delegate_no_ref.html#a5a5dae4df4f67db5b6158fc3a0f59ed8"/>
+          <topic label="Stop" href="dc/d82/class_nyx_1_1_c_thread_delegate_no_ref.html#ac7b9a727a5d24e0a74e77b6818854b17"/>
+        </topic>
+        <topic label="CThreadId" href="d8/dfc/class_nyx_1_1_c_thread_id.html">
+          <topic label="GetCurrent" href="d8/dfc/class_nyx_1_1_c_thread_id.html#aeec03d07a53e93f7015caf4443da8f31"/>
+          <topic label="IsCurrent" href="d8/dfc/class_nyx_1_1_c_thread_id.html#ac5e4d7e8fb2ed872a71a6db1cee24d6b"/>
+        </topic>
+        <topic label="CThreadModule" href="da/d44/class_nyx_1_1_c_thread_module.html">
+          <topic label="GetThreadUserData" href="da/d44/class_nyx_1_1_c_thread_module.html#a0fbac20b29d512a08aa1c3e8916d4939"/>
+          <topic label="Init" href="da/d44/class_nyx_1_1_c_thread_module.html#a96cf340f87404c5e11a949aba6a0d948"/>
+          <topic label="SetThreadUserData" href="da/d44/class_nyx_1_1_c_thread_module.html#a5649c62e875d3da33a4d6532dadd9acf"/>
+          <topic label="Terminate" href="da/d44/class_nyx_1_1_c_thread_module.html#a76fd1fe2a1d2b4058cf1eabd1bcc80f9"/>
+        </topic>
+        <topic label="CThreadProc" href="d8/d46/class_nyx_1_1_c_thread_proc.html">
+          <topic label="Run" href="d8/d46/class_nyx_1_1_c_thread_proc.html#a5053f2a6c3b7a3770c0a3ad1316a6a88"/>
+          <topic label="Stop" href="d8/d46/class_nyx_1_1_c_thread_proc.html#a2e0c0ff75b5ab2ecaa2df0c4b8f55ae2"/>
+        </topic>
+        <topic label="CTime" href="d1/d82/class_nyx_1_1_c_time.html">
+          <topic label="CTime" href="d1/d82/class_nyx_1_1_c_time.html#a00502a18ba5c8aebde20937933ad83d0"/>
+          <topic label="CTime" href="d1/d82/class_nyx_1_1_c_time.html#abd2c0de71889b43048191dd9933e57ac"/>
+          <topic label="CTime" href="d1/d82/class_nyx_1_1_c_time.html#ad92d90e7d0bf7f88360fd7b1f025fb2a"/>
+          <topic label="~CTime" href="d1/d82/class_nyx_1_1_c_time.html#a9d76a3a2896d84fffbd21403cf2b0001"/>
+          <topic label="Clear" href="d1/d82/class_nyx_1_1_c_time.html#aee23d984a74785356a6c0590b2acf833"/>
+          <topic label="GetCurrentTime" href="d1/d82/class_nyx_1_1_c_time.html#ae6afc268c8d90017b1a1035eedb04fa5"/>
+          <topic label="operator!=" href="d1/d82/class_nyx_1_1_c_time.html#a306dd9890617e75a5fc960cdda2068aa"/>
+          <topic label="operator+" href="d1/d82/class_nyx_1_1_c_time.html#af979e090fdd59c6fef952f2252317f56"/>
+          <topic label="operator-" href="d1/d82/class_nyx_1_1_c_time.html#a4f025506c118e871e57db714db324a7c"/>
+          <topic label="operator&lt;" href="d1/d82/class_nyx_1_1_c_time.html#aa0c50a8a31ad9fd6432e1fd2993e0632"/>
+          <topic label="operator&lt;=" href="d1/d82/class_nyx_1_1_c_time.html#a9399b55693d3c76d9153bef1f7b91aa2"/>
+          <topic label="operator=" href="d1/d82/class_nyx_1_1_c_time.html#aaa939636b42ba9d2171fb00c6e1dd8e1"/>
+          <topic label="operator==" href="d1/d82/class_nyx_1_1_c_time.html#a4d992741d565ce578eeca3624261d1fb"/>
+          <topic label="operator&gt;" href="d1/d82/class_nyx_1_1_c_time.html#a661878c58b6a5452235783f7c4f45f35"/>
+          <topic label="operator&gt;=" href="d1/d82/class_nyx_1_1_c_time.html#af4043965a5989633b6094e3c099a0c62"/>
+          <topic label="Valid" href="d1/d82/class_nyx_1_1_c_time.html#a48baea9ebc53090552ce90199534c445"/>
+          <topic label="CLocalTime" href="d1/d82/class_nyx_1_1_c_time.html#a146808bda4dfb45300365894cfde3075"/>
+        </topic>
+        <topic label="CTimeException" href="d3/dbe/class_nyx_1_1_c_time_exception.html">
+          <topic label="CTimeException" href="d3/dbe/class_nyx_1_1_c_time_exception.html#a5eabb2f52c74ecf1746dbf0b994dcb56"/>
+        </topic>
+        <topic label="CTraceCompositor" href="de/d45/class_nyx_1_1_c_trace_compositor.html">
+          <topic label="Alloc" href="de/d45/class_nyx_1_1_c_trace_compositor.html#a01254d0ff0fddb63e6b125cf907a06b2"/>
+          <topic label="Begin" href="de/d45/class_nyx_1_1_c_trace_compositor.html#ac08caae5dedb84cee0df8b7a7e191356"/>
+          <topic label="Clone" href="de/d45/class_nyx_1_1_c_trace_compositor.html#afd6fab02d75c96fcb636550280450480"/>
+          <topic label="End" href="de/d45/class_nyx_1_1_c_trace_compositor.html#a92e5047ddc8796c18b62732aee483e5d"/>
+          <topic label="SetOutput" href="de/d45/class_nyx_1_1_c_trace_compositor.html#a59dc79928ccc1253624433a68b7ee676"/>
+          <topic label="Write" href="de/d45/class_nyx_1_1_c_trace_compositor.html#a490b36aab8befbc88374d90ad030e266"/>
+        </topic>
+        <topic label="CTraceCompositorBuffer" href="de/d6b/class_nyx_1_1_c_trace_compositor_buffer.html">
+          <topic label="Begin" href="de/d6b/class_nyx_1_1_c_trace_compositor_buffer.html#a1668c048930604c6496768e931811f13"/>
+          <topic label="Clone" href="de/d6b/class_nyx_1_1_c_trace_compositor_buffer.html#a065dd602786b552849d9fc45e1eb9b93"/>
+          <topic label="End" href="de/d6b/class_nyx_1_1_c_trace_compositor_buffer.html#a80b9a005c6f0479c54a1f15056d7111d"/>
+          <topic label="Write" href="de/d6b/class_nyx_1_1_c_trace_compositor_buffer.html#a152ef084a0a879d39be82cfad9886d01"/>
+          <topic label="Write" href="de/d6b/class_nyx_1_1_c_trace_compositor_buffer.html#a63ffe57bf08335ae570b48ae866fd5b9"/>
+          <topic label="Write" href="de/d6b/class_nyx_1_1_c_trace_compositor_buffer.html#a97dd42239e2a4aae8ed8ffe916554d51"/>
+          <topic label="Write" href="de/d6b/class_nyx_1_1_c_trace_compositor_buffer.html#ab4f70adf1a790597f925eef273145e94"/>
+        </topic>
+        <topic label="CTraceCompositorBuffer_Ansi" href="db/dc4/class_nyx_1_1_c_trace_compositor_buffer___ansi.html">
+          <topic label="kBufferSize" href="db/dc4/class_nyx_1_1_c_trace_compositor_buffer___ansi.html#a2572672526f55672513e2c3d3cd681a3a25a803ef5e65f79e82fc2fa86315ca99"/>
+          <topic label="CTraceCompositorBuffer_Ansi" href="db/dc4/class_nyx_1_1_c_trace_compositor_buffer___ansi.html#a1a40c4594ad4e8005b454b5f14b0d917"/>
+          <topic label="~CTraceCompositorBuffer_Ansi" href="db/dc4/class_nyx_1_1_c_trace_compositor_buffer___ansi.html#a5f6f1c921153e264c2118f996cbf84fe"/>
+          <topic label="Begin" href="db/dc4/class_nyx_1_1_c_trace_compositor_buffer___ansi.html#a98d6de37bc5d708f33bffa87818beb11"/>
+          <topic label="Clone" href="db/dc4/class_nyx_1_1_c_trace_compositor_buffer___ansi.html#ad140ffe47d0fa59861f9a37dc98be51d"/>
+          <topic label="End" href="db/dc4/class_nyx_1_1_c_trace_compositor_buffer___ansi.html#affb079e5e3c662605c3342e85d22b388"/>
+          <topic label="Write" href="db/dc4/class_nyx_1_1_c_trace_compositor_buffer___ansi.html#a8abc3ad6ba1b5c823cce1e7aad868719"/>
+          <topic label="Write" href="db/dc4/class_nyx_1_1_c_trace_compositor_buffer___ansi.html#ae1c1c87b67ece2fef659a224090fe82e"/>
+          <topic label="Write" href="db/dc4/class_nyx_1_1_c_trace_compositor_buffer___ansi.html#a91c7f7a5e09b4933b4af9eea4bde2499"/>
+          <topic label="Write" href="db/dc4/class_nyx_1_1_c_trace_compositor_buffer___ansi.html#acdd03981ebada28ca5d6f2ec5084bc79"/>
+          <topic label="m_pBuffer" href="db/dc4/class_nyx_1_1_c_trace_compositor_buffer___ansi.html#ad35bf2beb75b51c798374bb858299a61"/>
+          <topic label="m_pCurPos" href="db/dc4/class_nyx_1_1_c_trace_compositor_buffer___ansi.html#a11050d7f7d81fec8eafe6cb29895ba26"/>
+          <topic label="m_pStartBufferPos" href="db/dc4/class_nyx_1_1_c_trace_compositor_buffer___ansi.html#a9218e01ab17adc5b3325c809b2bc649a"/>
+        </topic>
+        <topic label="CTraceCompositorBuffer_WideChar" href="d4/dad/class_nyx_1_1_c_trace_compositor_buffer___wide_char.html">
+          <topic label="kBufferSize" href="d4/dad/class_nyx_1_1_c_trace_compositor_buffer___wide_char.html#ac9208ca055f22985e9945111240b1187ad3fd833c79b97277bf90f89d94b1d2ff"/>
+          <topic label="CTraceCompositorBuffer_WideChar" href="d4/dad/class_nyx_1_1_c_trace_compositor_buffer___wide_char.html#a41af92b563def37a612c33e0cf0d198a"/>
+          <topic label="~CTraceCompositorBuffer_WideChar" href="d4/dad/class_nyx_1_1_c_trace_compositor_buffer___wide_char.html#aa8e32bc69d8f132db64ac30ba3f9396c"/>
+          <topic label="Begin" href="d4/dad/class_nyx_1_1_c_trace_compositor_buffer___wide_char.html#a256e91e8de3d91ebb801c89a9cb194ad"/>
+          <topic label="Clone" href="d4/dad/class_nyx_1_1_c_trace_compositor_buffer___wide_char.html#a5036e3b27511bcc44b74439aee95d996"/>
+          <topic label="End" href="d4/dad/class_nyx_1_1_c_trace_compositor_buffer___wide_char.html#a006574ee355ba7efa7deefa66e047fbe"/>
+          <topic label="Write" href="d4/dad/class_nyx_1_1_c_trace_compositor_buffer___wide_char.html#a79b7de3a08fa2fc431d319d7a7372d78"/>
+          <topic label="Write" href="d4/dad/class_nyx_1_1_c_trace_compositor_buffer___wide_char.html#af2b104e61424fb4a264688e903790e2b"/>
+          <topic label="Write" href="d4/dad/class_nyx_1_1_c_trace_compositor_buffer___wide_char.html#a313978f0c6f39c4c6594f84978a3a827"/>
+          <topic label="Write" href="d4/dad/class_nyx_1_1_c_trace_compositor_buffer___wide_char.html#a599ed3102646140b0589a9d67236eaea"/>
+          <topic label="m_pBuffer" href="d4/dad/class_nyx_1_1_c_trace_compositor_buffer___wide_char.html#a676d8575eba72b9f322d2a7de94b92ea"/>
+          <topic label="m_pCurPos" href="d4/dad/class_nyx_1_1_c_trace_compositor_buffer___wide_char.html#a444412fe4721f579c0f3fc483ca7205b"/>
+          <topic label="m_pStartBufferPos" href="d4/dad/class_nyx_1_1_c_trace_compositor_buffer___wide_char.html#ab3596cf7d490e44fd5e187f918dbca6a"/>
+        </topic>
+        <topic label="CTraceFeed" href="d3/dbf/class_nyx_1_1_c_trace_feed.html">
+          <topic label="ECharFormat" href="d3/dbf/class_nyx_1_1_c_trace_feed.html#a69e3edc2a13ca70aa0eb5045137abbac">
+            <topic label="eCF_Ansi" href="d3/dbf/class_nyx_1_1_c_trace_feed.html#a69e3edc2a13ca70aa0eb5045137abbaca376a68946432821dffe099acb99eb660"/>
+            <topic label="eCF_WideChar" href="d3/dbf/class_nyx_1_1_c_trace_feed.html#a69e3edc2a13ca70aa0eb5045137abbaca92adb1772e343a5883bd4398ea053451"/>
+          </topic>
+          <topic label="CharFormat" href="d3/dbf/class_nyx_1_1_c_trace_feed.html#a5c80f885578a8723e94d37463b73a50b"/>
+          <topic label="GetAnsiText" href="d3/dbf/class_nyx_1_1_c_trace_feed.html#a9c7a5954ede13df3cb70934af3dba53f"/>
+          <topic label="GetWideCharText" href="d3/dbf/class_nyx_1_1_c_trace_feed.html#afef5eebad43712f30e682ee5f64bf122"/>
+        </topic>
+        <topic label="CAnsiTraceFeed" href="d1/d1f/class_nyx_1_1_c_ansi_trace_feed.html">
+          <topic label="CAnsiTraceFeed" href="d1/d1f/class_nyx_1_1_c_ansi_trace_feed.html#a7855f8e278899ab816dc9c6e13cdbd19"/>
+          <topic label="~CAnsiTraceFeed" href="d1/d1f/class_nyx_1_1_c_ansi_trace_feed.html#ae45fdbaf05a564060c50176cddbeeaa4"/>
+          <topic label="CharFormat" href="d1/d1f/class_nyx_1_1_c_ansi_trace_feed.html#a53c7ccfb4274c2d031154a55272c656f"/>
+          <topic label="GetAnsiText" href="d1/d1f/class_nyx_1_1_c_ansi_trace_feed.html#af96d32968ced3a0caafe5de7f9e8d972"/>
+          <topic label="GetWideCharText" href="d1/d1f/class_nyx_1_1_c_ansi_trace_feed.html#a6b625dc73148d217edc881a4649d88ce"/>
+          <topic label="m_szBuffer" href="d1/d1f/class_nyx_1_1_c_ansi_trace_feed.html#afebe3490ad0ec55fefe592d47457d1d9"/>
+        </topic>
+        <topic label="CWideCharTraceFeed" href="d6/d45/class_nyx_1_1_c_wide_char_trace_feed.html">
+          <topic label="CWideCharTraceFeed" href="d6/d45/class_nyx_1_1_c_wide_char_trace_feed.html#ab9746287e36fdc1205b2350fd4f2b1de"/>
+          <topic label="~CWideCharTraceFeed" href="d6/d45/class_nyx_1_1_c_wide_char_trace_feed.html#a4b0a490b941a19482d32f8b79516ab30"/>
+          <topic label="CharFormat" href="d6/d45/class_nyx_1_1_c_wide_char_trace_feed.html#ad5de9389c69919b35ffe73e297143ce0"/>
+          <topic label="GetAnsiText" href="d6/d45/class_nyx_1_1_c_wide_char_trace_feed.html#abb789dc37f4aaef5fdda955450044720"/>
+          <topic label="GetWideCharText" href="d6/d45/class_nyx_1_1_c_wide_char_trace_feed.html#a90430296a4fcc0a6ed1be973b81f98d8"/>
+          <topic label="m_wszBuffer" href="d6/d45/class_nyx_1_1_c_wide_char_trace_feed.html#a1f72ee45d6c08340b08196bb56a0f43e"/>
+        </topic>
+        <topic label="CTraceHeader" href="dd/dc9/class_nyx_1_1_c_trace_header.html">
+          <topic label="TThreadId" href="dd/dc9/class_nyx_1_1_c_trace_header.html#a9da08ed6a152911512c6426912635941"/>
+          <topic label="TTickCount" href="dd/dc9/class_nyx_1_1_c_trace_header.html#a15126f1ed03e7cc79bb00eb1d5ba48a2"/>
+          <topic label="CTraceHeader" href="dd/dc9/class_nyx_1_1_c_trace_header.html#a4fafe5a636e827ec0c3cfbb210f6acc0"/>
+          <topic label="~CTraceHeader" href="dd/dc9/class_nyx_1_1_c_trace_header.html#afe7a62f97a90ecb5b700ff2be8b1d7af"/>
+          <topic label="ThreadId" href="dd/dc9/class_nyx_1_1_c_trace_header.html#a05e5dd0ba23ac3e3566de8ddd6f4c184"/>
+          <topic label="ThreadId" href="dd/dc9/class_nyx_1_1_c_trace_header.html#aad20fa0865c8bbef3d46aabf5e939b1e"/>
+          <topic label="TickCount" href="dd/dc9/class_nyx_1_1_c_trace_header.html#a6d993b7c4964e24785a2c90535dcf402"/>
+          <topic label="TickCount" href="dd/dc9/class_nyx_1_1_c_trace_header.html#a73214b7f312b55dd3426af2b665e30f8"/>
+          <topic label="TimeReference" href="dd/dc9/class_nyx_1_1_c_trace_header.html#a123d10477b66bd8d8d5dd0cfbde8b19e"/>
+          <topic label="Version" href="dd/dc9/class_nyx_1_1_c_trace_header.html#a16439bd2025e034a6c930d6a4b2f41e4"/>
+          <topic label="m_ThreadId" href="dd/dc9/class_nyx_1_1_c_trace_header.html#a8591973c42281500fd59b39429a2da21"/>
+          <topic label="m_TickCount" href="dd/dc9/class_nyx_1_1_c_trace_header.html#a18ce9a70505092441980abdc48ea5ed0"/>
+          <topic label="m_TimeReference" href="dd/dc9/class_nyx_1_1_c_trace_header.html#aa8d91d5471f02a29445c4d4fb9f18251"/>
+          <topic label="m_Version" href="dd/dc9/class_nyx_1_1_c_trace_header.html#a550363612dd09a0f13e1eb289c965f4b"/>
+        </topic>
+        <topic label="CTraceModule" href="d0/dcb/class_nyx_1_1_c_trace_module.html">
+          <topic label="Reference" href="d0/dcb/class_nyx_1_1_c_trace_module.html#abdb4516eeca8e18bda6242995b99773b"/>
+          <topic label="RemoveThreadDefault" href="d0/dcb/class_nyx_1_1_c_trace_module.html#ac4f7dfae955af8bd9158fdc7903f62e7"/>
+          <topic label="SetThreadDefault" href="d0/dcb/class_nyx_1_1_c_trace_module.html#a1ab208716381be70f839663d49f97f41"/>
+          <topic label="ThreadDefault" href="d0/dcb/class_nyx_1_1_c_trace_module.html#aed06bc558a412aafe79f51812fd21808"/>
+        </topic>
+        <topic label="CTraceOutput" href="de/d20/class_nyx_1_1_c_trace_output.html">
+          <topic label="Write" href="de/d20/class_nyx_1_1_c_trace_output.html#aaaeaae0ebb9b1c1baaefa3459ca3ab3c"/>
+          <topic label="Write" href="de/d20/class_nyx_1_1_c_trace_output.html#adecbff3126e3ae4e58a4720ab19fc284"/>
+        </topic>
+        <topic label="CTraceStream" href="da/d95/class_nyx_1_1_c_trace_stream.html">
+          <topic label="CTraceStream" href="da/d95/class_nyx_1_1_c_trace_stream.html#a426b6f69614b97b2b6fc244932925e5c"/>
+          <topic label="CTraceStream" href="da/d95/class_nyx_1_1_c_trace_stream.html#a2703e0bbd745cf9d90419702ace39242"/>
+          <topic label="~CTraceStream" href="da/d95/class_nyx_1_1_c_trace_stream.html#a32f5393bba2cccceadf5c3e4fef03d12"/>
+          <topic label="operator&lt;&lt;" href="da/d95/class_nyx_1_1_c_trace_stream.html#a6188d6ea93160ec155196e91e2877e03"/>
+          <topic label="Write" href="da/d95/class_nyx_1_1_c_trace_stream.html#afb5e25aa6590df38bc69c1937d6fa175"/>
+          <topic label="Write" href="da/d95/class_nyx_1_1_c_trace_stream.html#a925bb1bd59d612f7916adc7dfddcf3a3"/>
+          <topic label="m_pTrace" href="da/d95/class_nyx_1_1_c_trace_stream.html#a1e0b8eb139fcdf1d3c1a1daf8b389dae"/>
+        </topic>
+        <topic label="CTraceTimeReference" href="d0/d6e/class_nyx_1_1_c_trace_time_reference.html">
+          <topic label="TTickCount" href="d0/d6e/class_nyx_1_1_c_trace_time_reference.html#aa93db9b4cdf1eea0d3f2dbbd072b7e80"/>
+          <topic label="TTimeString" href="d0/d6e/class_nyx_1_1_c_trace_time_reference.html#ac355a0b8420a251654a2e61630b02be8"/>
+          <topic label="CTraceTimeReference" href="d0/d6e/class_nyx_1_1_c_trace_time_reference.html#a52cf8563744c861631a16c2ab31af16f"/>
+          <topic label="~CTraceTimeReference" href="d0/d6e/class_nyx_1_1_c_trace_time_reference.html#aac9bef2286855eeae064eddd05c58c2f"/>
+          <topic label="TickCount" href="d0/d6e/class_nyx_1_1_c_trace_time_reference.html#afc050d081a9b183da9ed553a10309a71"/>
+          <topic label="Time" href="d0/d6e/class_nyx_1_1_c_trace_time_reference.html#abf42d4952d6f7bc8c6f41d70399e34e2"/>
+          <topic label="TimeString" href="d0/d6e/class_nyx_1_1_c_trace_time_reference.html#ad80f8d4b7c327c69e25da1380a70b214"/>
+          <topic label="m_TickCount" href="d0/d6e/class_nyx_1_1_c_trace_time_reference.html#a5136a788b20a9f713d5bf79740e7fa53"/>
+          <topic label="m_Time" href="d0/d6e/class_nyx_1_1_c_trace_time_reference.html#a2228dc92023deee892988eb177762b3d"/>
+          <topic label="m_TimeString" href="d0/d6e/class_nyx_1_1_c_trace_time_reference.html#ace2fd3349597416f0936f9cdb93ef331"/>
+        </topic>
+        <topic label="CWString" href="d2/d66/class_nyx_1_1_c_w_string.html">
+          <topic label="CWString" href="d2/d66/class_nyx_1_1_c_w_string.html#a96102e8659336c91d7fb01475cb02bc3"/>
+          <topic label="CWString" href="d2/d66/class_nyx_1_1_c_w_string.html#a9c4d5ba95b190ea7043faa224aed70c0"/>
+          <topic label="CWString" href="d2/d66/class_nyx_1_1_c_w_string.html#a8461d10ca01df87f221b2886d94a33ca"/>
+          <topic label="CWString" href="d2/d66/class_nyx_1_1_c_w_string.html#aaeb9a3a36b9143a65eda8c965afb23a8"/>
+          <topic label="c_str" href="d2/d66/class_nyx_1_1_c_w_string.html#a37e5dc1f590b33d59b712932062bcd63"/>
+          <topic label="CountOccurencesOf" href="d2/d66/class_nyx_1_1_c_w_string.html#a248e1efa521d6b50a9e2ab98faa27bbf"/>
+          <topic label="Format" href="d2/d66/class_nyx_1_1_c_w_string.html#a868b78ac8f505d767d8adda03c7cc3e7"/>
+          <topic label="Format" href="d2/d66/class_nyx_1_1_c_w_string.html#a4b92a3716e762725bf3241172c5acd77"/>
+          <topic label="GetSplitRanges" href="d2/d66/class_nyx_1_1_c_w_string.html#a929bb1e17a74380515ffe7f463eb6cd9"/>
+          <topic label="GetSubString" href="d2/d66/class_nyx_1_1_c_w_string.html#afa514087de2773ed8e386212a1a6d107"/>
+          <topic label="length" href="d2/d66/class_nyx_1_1_c_w_string.html#ab83a2b83d93debe2631a3db3b26d98c1"/>
+          <topic label="operator!=" href="d2/d66/class_nyx_1_1_c_w_string.html#a44b0591174a46968c6dee6b604fa36c0"/>
+          <topic label="operator+" href="d2/d66/class_nyx_1_1_c_w_string.html#a2ffdf2488fdad12fba93a023a0fe01af"/>
+          <topic label="operator+" href="d2/d66/class_nyx_1_1_c_w_string.html#a06901a6551a70d22321ae1a9154a79e7"/>
+          <topic label="operator&lt;" href="d2/d66/class_nyx_1_1_c_w_string.html#af7f3e7ff73ddf3ad06ffa2f6e6883572"/>
+          <topic label="operator=" href="d2/d66/class_nyx_1_1_c_w_string.html#a048378a7d40e30d0624b2c841c6c78a0"/>
+          <topic label="operator=" href="d2/d66/class_nyx_1_1_c_w_string.html#a286b4452c4cb537afcf0d48815ddb310"/>
+          <topic label="operator=" href="d2/d66/class_nyx_1_1_c_w_string.html#ad59a9b151613fcd563ec7417298bbd9c"/>
+          <topic label="operator=" href="d2/d66/class_nyx_1_1_c_w_string.html#ab971027e52d209a76412bc85d4b94579"/>
+          <topic label="operator=" href="d2/d66/class_nyx_1_1_c_w_string.html#ab28aa4cb0f159305a423826e5a02758c"/>
+          <topic label="operator==" href="d2/d66/class_nyx_1_1_c_w_string.html#a34fc1986fb4bab137312bc31ac818022"/>
+          <topic label="operator&gt;" href="d2/d66/class_nyx_1_1_c_w_string.html#a94bba810cac0d13b3692c4dfa9389cbc"/>
+          <topic label="operator[]" href="d2/d66/class_nyx_1_1_c_w_string.html#aacc23a64813978819c313ad655ea1c6b"/>
+          <topic label="operator[]" href="d2/d66/class_nyx_1_1_c_w_string.html#a2593e2f565eeb3664ab5d3ff9f6d79d0"/>
+        </topic>
+      </topic>
+      <topic label="NyxNet">
+        <topic label="IConnection" href="d0/d7d/class_nyx_net_1_1_i_connection.html">
+          <topic label="Close" href="d0/d7d/class_nyx_net_1_1_i_connection.html#a0ea0c63bb93617b156b071737615ae79"/>
+        </topic>
+        <topic label="IConnectionHandler" href="d4/d4f/class_nyx_net_1_1_i_connection_handler.html">
+          <topic label="OnConnectionTerminated" href="d4/d4f/class_nyx_net_1_1_i_connection_handler.html#a903971c33bb6ce30fb670473f485cd45"/>
+          <topic label="OnNewConnection" href="d4/d4f/class_nyx_net_1_1_i_connection_handler.html#a25b90269196bd4509042a522bfcbbf90"/>
+        </topic>
+        <topic label="CModule" href="d9/da5/class_nyx_net_1_1_c_module.html">
+          <topic label="Alloc" href="d9/da5/class_nyx_net_1_1_c_module.html#a10b923435c4e0619a9af0f7fd592da70"/>
+          <topic label="Default" href="d9/da5/class_nyx_net_1_1_c_module.html#a849aec9887db3b2b4452e97f71671c53"/>
+          <topic label="GetHostIp" href="d9/da5/class_nyx_net_1_1_c_module.html#ac80950f204bf315f946b17df89f4ce2f"/>
+          <topic label="GetHostname" href="d9/da5/class_nyx_net_1_1_c_module.html#a9fdd5aad6a2d3e28ce762ec933e65a50"/>
+        </topic>
+        <topic label="CNxConnection" href="df/d8e/class_nyx_net_1_1_c_nx_connection.html">
+          <topic label="Alloc" href="df/d8e/class_nyx_net_1_1_c_nx_connection.html#a4e2a518a46ceb245f7fdc63ec2dd0cc3"/>
+          <topic label="Close" href="df/d8e/class_nyx_net_1_1_c_nx_connection.html#aa4332c84db47f07d68d8477cf851c0d9"/>
+          <topic label="Open" href="df/d8e/class_nyx_net_1_1_c_nx_connection.html#a346a664fa9c4a0af07823fc48a189890"/>
+          <topic label="SetConnectionHandler" href="df/d8e/class_nyx_net_1_1_c_nx_connection.html#a25f55550fd272763f90fe1db2f600f49"/>
+        </topic>
+        <topic label="INxConnectionHandler" href="d0/d3c/class_nyx_net_1_1_i_nx_connection_handler.html">
+          <topic label="HandleStream" href="d0/d3c/class_nyx_net_1_1_i_nx_connection_handler.html#a5d2de35178f864ce09a891703aedac2a"/>
+          <topic label="OnConnectionTerminated" href="d0/d3c/class_nyx_net_1_1_i_nx_connection_handler.html#acfa073343882df75bc7c6a7c376f3372"/>
+          <topic label="OnNewConnection" href="d0/d3c/class_nyx_net_1_1_i_nx_connection_handler.html#a305302dd48543a1252ca5e1594e8c8e7"/>
+        </topic>
+        <topic label="CNxDataHeader" href="dc/d5e/class_nyx_net_1_1_c_nx_data_header.html">
+          <topic label="CNxDataHeader" href="dc/d5e/class_nyx_net_1_1_c_nx_data_header.html#a815a8a5026a641dc06d95619de6e2054"/>
+          <topic label="~CNxDataHeader" href="dc/d5e/class_nyx_net_1_1_c_nx_data_header.html#ac1ddb787bef5251cc9072c07b04dc734"/>
+          <topic label="DataSize" href="dc/d5e/class_nyx_net_1_1_c_nx_data_header.html#a66f11e2423f41642d8c9b9752a76d11c"/>
+          <topic label="DataSize" href="dc/d5e/class_nyx_net_1_1_c_nx_data_header.html#a91a0de71f087b44551fa636b1674e553"/>
+          <topic label="DataType" href="dc/d5e/class_nyx_net_1_1_c_nx_data_header.html#a1ed0895748dc9f1eee5065d9d62d80c6"/>
+          <topic label="DataType" href="dc/d5e/class_nyx_net_1_1_c_nx_data_header.html#a77bbcdf5cf0d5de41a0bd1ec796b04c8"/>
+          <topic label="operator=" href="dc/d5e/class_nyx_net_1_1_c_nx_data_header.html#a51eee5520b48466c3a8f1f231758b839"/>
+          <topic label="m_DataSize" href="dc/d5e/class_nyx_net_1_1_c_nx_data_header.html#a3109a6c5b385d065b64ddb2b2f5d74c6"/>
+          <topic label="m_DataType" href="dc/d5e/class_nyx_net_1_1_c_nx_data_header.html#abcee149ed4366874d3e863f34e498a52"/>
+        </topic>
+        <topic label="INxSectionStreamRW" href="d6/d27/class_nyx_net_1_1_i_nx_section_stream_r_w.html">
+          <topic label="BeginReadSection" href="d6/d27/class_nyx_net_1_1_i_nx_section_stream_r_w.html#a959a283a5db10bd6c43d93bfd33b5579"/>
+          <topic label="BeginWriteSection" href="d6/d27/class_nyx_net_1_1_i_nx_section_stream_r_w.html#abb65beb174e26d3795cd1094a0377892"/>
+          <topic label="EndReadSection" href="d6/d27/class_nyx_net_1_1_i_nx_section_stream_r_w.html#a893384fac26819f0881ebe1b945cc9d9"/>
+          <topic label="EndWriteSection" href="d6/d27/class_nyx_net_1_1_i_nx_section_stream_r_w.html#a2e9557396fa037526d059b1ce6a3ca31"/>
+          <topic label="Read" href="d6/d27/class_nyx_net_1_1_i_nx_section_stream_r_w.html#a1887a18c2d374049492da52273ff8f1c"/>
+          <topic label="Write" href="d6/d27/class_nyx_net_1_1_i_nx_section_stream_r_w.html#ac836ac3624a5fcdc8ef0ab418ba29689"/>
+          <topic label="CNxSectionStreamReader" href="d6/d27/class_nyx_net_1_1_i_nx_section_stream_r_w.html#a3704a755239ee658a57dcc80b1df43a1"/>
+          <topic label="CNxSectionStreamWriter" href="d6/d27/class_nyx_net_1_1_i_nx_section_stream_r_w.html#ab4a83ad6579e2f716ad53f54071f90a9"/>
+        </topic>
+        <topic label="INxStreamRW" href="d6/dbe/class_nyx_net_1_1_i_nx_stream_r_w.html">
+          <topic label="BeginRead" href="d6/dbe/class_nyx_net_1_1_i_nx_stream_r_w.html#a6e0f4570d6a326dea72a768f7664aa40"/>
+          <topic label="BeginWrite" href="d6/dbe/class_nyx_net_1_1_i_nx_stream_r_w.html#a703d9358299b64332a55086205047066"/>
+          <topic label="EndRead" href="d6/dbe/class_nyx_net_1_1_i_nx_stream_r_w.html#a9e649078788dd195d0c761fb6d3fda67"/>
+          <topic label="EndWrite" href="d6/dbe/class_nyx_net_1_1_i_nx_stream_r_w.html#ab165dd70e00798e926a05e81415201fd"/>
+          <topic label="CNxStreamReader" href="d6/dbe/class_nyx_net_1_1_i_nx_stream_r_w.html#a1fa6bdbb2b7eaaf8e7878e3ec5404965"/>
+          <topic label="CNxStreamWriter" href="d6/dbe/class_nyx_net_1_1_i_nx_stream_r_w.html#a481f38b779abae46cc4d3ba5bc7221fe"/>
+        </topic>
+        <topic label="CNxStreamWriter" href="d3/d2e/class_nyx_net_1_1_c_nx_stream_writer.html">
+          <topic label="CNxStreamWriter" href="d3/d2e/class_nyx_net_1_1_c_nx_stream_writer.html#a0ce72df75da37b01b29e7761aff76da8"/>
+          <topic label="CNxStreamWriter" href="d3/d2e/class_nyx_net_1_1_c_nx_stream_writer.html#ade2aa8b2c91f43bc30f5a86c77eadff1"/>
+          <topic label="~CNxStreamWriter" href="d3/d2e/class_nyx_net_1_1_c_nx_stream_writer.html#a11d86c94f467da20bedbf2f20453e4be"/>
+          <topic label="Valid" href="d3/d2e/class_nyx_net_1_1_c_nx_stream_writer.html#a13486e228874cd585d0821f086908d39"/>
+          <topic label="CNxSectionStreamWriter" href="d3/d2e/class_nyx_net_1_1_c_nx_stream_writer.html#ab4a83ad6579e2f716ad53f54071f90a9"/>
+          <topic label="m_bValid" href="d3/d2e/class_nyx_net_1_1_c_nx_stream_writer.html#ac0977dec54e0d0f09135ca84c73717b9"/>
+          <topic label="m_rStream" href="d3/d2e/class_nyx_net_1_1_c_nx_stream_writer.html#a1910d830420b70f4f01168b26c7f0ee5"/>
+        </topic>
+        <topic label="CNxSectionStreamWriter" href="dd/d68/class_nyx_net_1_1_c_nx_section_stream_writer.html">
+          <topic label="CNxSectionStreamWriter" href="dd/d68/class_nyx_net_1_1_c_nx_section_stream_writer.html#a81603bca8d628c8eb45dd1c7359d7c2b"/>
+          <topic label="~CNxSectionStreamWriter" href="dd/d68/class_nyx_net_1_1_c_nx_section_stream_writer.html#ab421c758d152752d523c803920ac7468"/>
+          <topic label="Valid" href="dd/d68/class_nyx_net_1_1_c_nx_section_stream_writer.html#aeefdcc90597ead2dbf0d21a77436bb79"/>
+          <topic label="Write" href="dd/d68/class_nyx_net_1_1_c_nx_section_stream_writer.html#a748ef66712e6078369d967f2af99c3ce"/>
+          <topic label="m_bValid" href="dd/d68/class_nyx_net_1_1_c_nx_section_stream_writer.html#a3e487fd7317a413c47ba879afb1ef1e5"/>
+          <topic label="m_rStream" href="dd/d68/class_nyx_net_1_1_c_nx_section_stream_writer.html#a8069a372ffeb8d8be24d13b03058da0e"/>
+        </topic>
+        <topic label="CNxStreamReader" href="d0/d10/class_nyx_net_1_1_c_nx_stream_reader.html">
+          <topic label="CNxStreamReader" href="d0/d10/class_nyx_net_1_1_c_nx_stream_reader.html#a3563ebd7b7eb36783f4a26f4f6dd53ea"/>
+          <topic label="CNxStreamReader" href="d0/d10/class_nyx_net_1_1_c_nx_stream_reader.html#a9ed0dc33c0c7d4d52ac934f885954b63"/>
+          <topic label="~CNxStreamReader" href="d0/d10/class_nyx_net_1_1_c_nx_stream_reader.html#a643f525af8229c9634367efca3457099"/>
+          <topic label="DataType" href="d0/d10/class_nyx_net_1_1_c_nx_stream_reader.html#a27527eada91bde12f7043547f3c0cc37"/>
+          <topic label="Valid" href="d0/d10/class_nyx_net_1_1_c_nx_stream_reader.html#a4278de469e3f1244a209091debe99c10"/>
+          <topic label="CNxSectionStreamReader" href="d0/d10/class_nyx_net_1_1_c_nx_stream_reader.html#a3704a755239ee658a57dcc80b1df43a1"/>
+          <topic label="m_bValid" href="d0/d10/class_nyx_net_1_1_c_nx_stream_reader.html#a4a03404d45a0af01ae789c984d965ece"/>
+          <topic label="m_DataType" href="d0/d10/class_nyx_net_1_1_c_nx_stream_reader.html#a6daf261aa4f3420af67e73aaf34e17c5"/>
+          <topic label="m_rStream" href="d0/d10/class_nyx_net_1_1_c_nx_stream_reader.html#a2e1079c0d4f2733b1ae91695c63c3632"/>
+        </topic>
+        <topic label="CNxSectionStreamReader" href="d5/dc5/class_nyx_net_1_1_c_nx_section_stream_reader.html">
+          <topic label="CNxSectionStreamReader" href="d5/dc5/class_nyx_net_1_1_c_nx_section_stream_reader.html#adca9ed0685ab352c9aaf49d929302faa"/>
+          <topic label="~CNxSectionStreamReader" href="d5/dc5/class_nyx_net_1_1_c_nx_section_stream_reader.html#aeed474ab6b3b417c06d72c3374ea7f86"/>
+          <topic label="Read" href="d5/dc5/class_nyx_net_1_1_c_nx_section_stream_reader.html#adbd9b81117e3f758468117755b9dcd89"/>
+          <topic label="Size" href="d5/dc5/class_nyx_net_1_1_c_nx_section_stream_reader.html#a0fbf8f30bd681f8265819abcc8e40530"/>
+          <topic label="Valid" href="d5/dc5/class_nyx_net_1_1_c_nx_section_stream_reader.html#acd0fadc29c021a46ce561d0caabffcd8"/>
+          <topic label="m_bValid" href="d5/dc5/class_nyx_net_1_1_c_nx_section_stream_reader.html#a89f8b5f99ac68718976d65ce789002a2"/>
+          <topic label="m_rStream" href="d5/dc5/class_nyx_net_1_1_c_nx_section_stream_reader.html#a159adba4b77036cec0c40840a01e48f0"/>
+          <topic label="m_Size" href="d5/dc5/class_nyx_net_1_1_c_nx_section_stream_reader.html#a8b0f9c03c5e5fde054bc9b258afb266a"/>
+        </topic>
+        <topic label="CPipeServer" href="d5/d29/class_nyx_net_1_1_c_pipe_server.html">
+          <topic label="Alloc" href="d5/d29/class_nyx_net_1_1_c_pipe_server.html#aa85520b379390b487793ea16bc6d6939"/>
+          <topic label="Create" href="d5/d29/class_nyx_net_1_1_c_pipe_server.html#ad53bc2dbcfbc1bf102e700b6b55c6ff2"/>
+        </topic>
+        <topic label="CPipeSocket" href="de/dbd/class_nyx_net_1_1_c_pipe_socket.html"/>
+        <topic label="CPipeSocketReader" href="d8/dea/class_nyx_net_1_1_c_pipe_socket_reader.html">
+          <topic label="Alloc" href="d8/dea/class_nyx_net_1_1_c_pipe_socket_reader.html#a30c33e94d30c2a2f7ac346c0fa9ee9b5"/>
+          <topic label="Create" href="d8/dea/class_nyx_net_1_1_c_pipe_socket_reader.html#a3d4a46dc442e31c171f1aeb20cae3b1a"/>
+        </topic>
+        <topic label="CPipeSocketWriter" href="d0/d81/class_nyx_net_1_1_c_pipe_socket_writer.html">
+          <topic label="Alloc" href="d0/d81/class_nyx_net_1_1_c_pipe_socket_writer.html#ae91414b5ece6a767a38cc80f195470d7"/>
+          <topic label="Create" href="d0/d81/class_nyx_net_1_1_c_pipe_socket_writer.html#abd40c4847062f9260486615d494e806a"/>
+        </topic>
+        <topic label="CPipeTraceOutput" href="db/d50/class_nyx_net_1_1_c_pipe_trace_output.html">
+          <topic label="Alloc" href="db/d50/class_nyx_net_1_1_c_pipe_trace_output.html#af69d1334b2ab3ce169f1fbf6fa7a17de"/>
+        </topic>
+        <topic label="CServer" href="dc/dc5/class_nyx_net_1_1_c_server.html">
+          <topic label="IsRunning" href="dc/dc5/class_nyx_net_1_1_c_server.html#a8ada4ddce9798852711dad1e8dc3e5e2"/>
+          <topic label="Start" href="dc/dc5/class_nyx_net_1_1_c_server.html#a4fe0b3ff75f0036317e04d0e3eeb8d87"/>
+          <topic label="Stop" href="dc/dc5/class_nyx_net_1_1_c_server.html#aa9414791b85dd099ae01f1ada679c2cc"/>
+        </topic>
+        <topic label="CSocket" href="d4/d21/class_nyx_net_1_1_c_socket.html">
+          <topic label="Connect" href="d4/d21/class_nyx_net_1_1_c_socket.html#a49be540cddd877e915794a7ab93bc516"/>
+          <topic label="Disconnect" href="d4/d21/class_nyx_net_1_1_c_socket.html#ae53ca588794a86f383b74e217a3d286d"/>
+          <topic label="Read" href="d4/d21/class_nyx_net_1_1_c_socket.html#acda390d2cdaa0f2785c343f9b2cfdc77"/>
+          <topic label="Renew" href="d4/d21/class_nyx_net_1_1_c_socket.html#a77754a97544089bc99c8bc3410a2479b"/>
+          <topic label="SetListener" href="d4/d21/class_nyx_net_1_1_c_socket.html#a3ae134dd8aab15e77c6dc0fc0980bfe7"/>
+          <topic label="Valid" href="d4/d21/class_nyx_net_1_1_c_socket.html#a44deaeae91eb08d34157638bbad989dd"/>
+          <topic label="Write" href="d4/d21/class_nyx_net_1_1_c_socket.html#a549d5509fb02d2fb6fb4ebda3707bf5f"/>
+        </topic>
+        <topic label="ISocketListener" href="d4/d23/class_nyx_net_1_1_i_socket_listener.html">
+          <topic label="OnSocketConnected" href="d4/d23/class_nyx_net_1_1_i_socket_listener.html#afd78b8341e0e12391127055fdbd52436"/>
+          <topic label="OnSocketDisconnected" href="d4/d23/class_nyx_net_1_1_i_socket_listener.html#a9c8cfdce0452a9b970844b3b6c172d58"/>
+        </topic>
+        <topic label="CTcpIpServer" href="d3/d29/class_nyx_net_1_1_c_tcp_ip_server.html">
+          <topic label="Alloc" href="d3/d29/class_nyx_net_1_1_c_tcp_ip_server.html#a704440d00ced643d4ba2f31272023ef6"/>
+          <topic label="Create" href="d3/d29/class_nyx_net_1_1_c_tcp_ip_server.html#a8e1a806b866af5ae356ae22968e09127"/>
+        </topic>
+        <topic label="CTcpIpSocket" href="d6/d3d/class_nyx_net_1_1_c_tcp_ip_socket.html">
+          <topic label="Accept" href="d6/d3d/class_nyx_net_1_1_c_tcp_ip_socket.html#a2d75d6025eaf308ff20706c334eb4108"/>
+          <topic label="Alloc" href="d6/d3d/class_nyx_net_1_1_c_tcp_ip_socket.html#a40dbdbde5932488170883895f712498b"/>
+          <topic label="Bind" href="d6/d3d/class_nyx_net_1_1_c_tcp_ip_socket.html#a59c444e2eee012259aa5f1b5960ff46d"/>
+          <topic label="Connect" href="d6/d3d/class_nyx_net_1_1_c_tcp_ip_socket.html#a6d2c99a53f2ef5177f92caa3b5844ef5"/>
+          <topic label="Create" href="d6/d3d/class_nyx_net_1_1_c_tcp_ip_socket.html#aa1acfc60d1fb6b610374dc850ed895ea"/>
+          <topic label="Disconnect" href="d6/d3d/class_nyx_net_1_1_c_tcp_ip_socket.html#ac43a50fa3c9223f9c7407c2848c60f3c"/>
+          <topic label="Listen" href="d6/d3d/class_nyx_net_1_1_c_tcp_ip_socket.html#a557a403fac8bf48fd28fbf0def84396e"/>
+        </topic>
+        <topic label="CTcpIpTraceOutput" href="d0/df7/class_nyx_net_1_1_c_tcp_ip_trace_output.html">
+          <topic label="Alloc" href="d0/df7/class_nyx_net_1_1_c_tcp_ip_trace_output.html#af92e5a6eb2369d399f6f7a1b6c7a16f6"/>
+        </topic>
+        <topic label="CTraceFlags" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html">
+          <topic label="TFlags_Ansi" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a628e0fd434f37c911b8c922ca4bdca36a53de953579156b689cda9336fc9179d0"/>
+          <topic label="TFlags_WideChar" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a628e0fd434f37c911b8c922ca4bdca36a388abc5fca2ba67d0fe670d67b97e5c7"/>
+          <topic label="TFlags_Windows" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#aee2bf14e5e96d6f7f69e6b665045da53a3618aa11461c9e6539ce0b079f29ef16"/>
+          <topic label="TFlags_OSX" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#aee2bf14e5e96d6f7f69e6b665045da53ab04bd548b832e9beea5d09218938cec8"/>
+          <topic label="TFlags_Linux" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#aee2bf14e5e96d6f7f69e6b665045da53a360f13c7b188bb198981f6e27722163a"/>
+          <topic label="TFlags_32Bits" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a4b43cf1f6cbd1a01c33ca56ddc551c13a2108b997de6b5338bd4d7cac61c4e827"/>
+          <topic label="TFlags_64Bits" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a4b43cf1f6cbd1a01c33ca56ddc551c13a633ceba1a0f85d7804235ba32af1dbd0"/>
+          <topic label="CTraceFlags" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#ade726ebb4c1eaa7994ae652aa7b05e88"/>
+          <topic label="CTraceFlags" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#ad7a7cecbca9641ac9e03d28132e25025"/>
+          <topic label="CTraceFlags" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a9f24b95e2d15149ae5cdf9721a94b9b9"/>
+          <topic label="~CTraceFlags" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a11a10ff07ec1314ca7d5925d4c9bad27"/>
+          <topic label="Is32Bits" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#adf27914f1821e823e9e2387f5e37f9c9"/>
+          <topic label="Is64Bits" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a06f8892a1a7906e62b6818df76ea256d"/>
+          <topic label="IsAnsi" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a8792674c51d448897f29632d56cd3555"/>
+          <topic label="IsLinux" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a3e3230d492f0b176dba7603d1a4ef4a7"/>
+          <topic label="IsOSX" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#aa1af101676532e63acded3033fc22baa"/>
+          <topic label="IsWideChar" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#adef23b61e56f313b6b4cb000b5201d18"/>
+          <topic label="IsWindows" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a00babf9e6a846b132c1bcd3b1fac01f7"/>
+          <topic label="operator=" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#ad71244d947827f8e82ac429707280783"/>
+          <topic label="WideCharSize" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#a251967ca14c1b0167b4779b73f4e0810"/>
+          <topic label="m_Flags" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#ac2781da7d146a249842cdfd8620e2bff"/>
+          <topic label="m_Reserved" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#ae67aad5989b6f099c68dfcc00cffa401"/>
+          <topic label="m_WideCharSize" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html#adec71fe13f726747cc8da43e0ac52412"/>
+        </topic>
+        <topic label="CTraceStreamWriter" href="d5/d9e/class_nyx_net_1_1_c_trace_stream_writer.html">
+          <topic label="CTraceStreamWriter" href="d5/d9e/class_nyx_net_1_1_c_trace_stream_writer.html#aad1c8ab814e30f9182e95a9794fe34f0"/>
+          <topic label="~CTraceStreamWriter" href="d5/d9e/class_nyx_net_1_1_c_trace_stream_writer.html#a1fa2ac9ac659a48058a10ead07bcfd3a"/>
+          <topic label="Init" href="d5/d9e/class_nyx_net_1_1_c_trace_stream_writer.html#aab6e0f829c2f91e7f55d67269853a2d3"/>
+          <topic label="Terminate" href="d5/d9e/class_nyx_net_1_1_c_trace_stream_writer.html#ab28fd607e1713469e37524161ae1c6c0"/>
+          <topic label="Write" href="d5/d9e/class_nyx_net_1_1_c_trace_stream_writer.html#a8d8e8bb0489fd53518f755d5dc3d48b3"/>
+          <topic label="Write" href="d5/d9e/class_nyx_net_1_1_c_trace_stream_writer.html#a8873101f2566a67890fb98ea44d3c80c"/>
+          <topic label="Write" href="d5/d9e/class_nyx_net_1_1_c_trace_stream_writer.html#ade811c43cf123ed3184136da50a66bfb"/>
+          <topic label="Write" href="d5/d9e/class_nyx_net_1_1_c_trace_stream_writer.html#aeb9353a3adc9ca63463712b3f3272897"/>
+          <topic label="m_refConnection" href="d5/d9e/class_nyx_net_1_1_c_trace_stream_writer.html#acd86158cedbf6b5f4b1f450d999ccf83"/>
+          <topic label="s_BaseTraceFlags" href="d5/d9e/class_nyx_net_1_1_c_trace_stream_writer.html#ab7bfc1f0863cf6619a256a4ed8fcf13a"/>
+        </topic>
+      </topic>
+    </topic>
+    <topic label="Class Index" href="classes.html"/>
+    <topic label="Class Hierarchy" href="hierarchy.html">
+      <topic label="Nyx::CAtomicValue" href="d6/da3/class_nyx_1_1_c_atomic_value.html"/>
+      <topic label="Nyx::CConstRef&lt; TYPE &gt;" href="d6/d72/class_nyx_1_1_c_const_ref.html"/>
+      <topic label="Nyx::CException" href="de/d78/class_nyx_1_1_c_exception.html">
+        <topic label="Nyx::CResException" href="d2/d65/class_nyx_1_1_c_res_exception.html"/>
+        <topic label="Nyx::CTimeException" href="d3/dbe/class_nyx_1_1_c_time_exception.html"/>
+      </topic>
+      <topic label="Nyx::CInterfaceRef&lt; INTERFACE, OWNER &gt;" href="d7/dea/class_nyx_1_1_c_interface_ref.html"/>
+      <topic label="Nyx::CLocalTime" href="dc/d95/class_nyx_1_1_c_local_time.html"/>
+      <topic label="Nyx::CMemPoolObj&lt; BASETYPE &gt;" href="d7/de5/class_nyx_1_1_c_mem_pool_obj.html"/>
+      <topic label="Nyx::CMemPoolObjDummyBase" href="d4/d1e/class_nyx_1_1_c_mem_pool_obj_dummy_base.html"/>
+      <topic label="Nyx::CMFString" href="de/d88/class_nyx_1_1_c_m_f_string.html">
+        <topic label="Nyx::CAString" href="d3/d99/class_nyx_1_1_c_a_string.html"/>
+        <topic label="Nyx::CMFTmpString" href="df/dda/class_nyx_1_1_c_m_f_tmp_string.html"/>
+        <topic label="Nyx::CWString" href="d2/d66/class_nyx_1_1_c_w_string.html">
+          <topic label="Nyx::CMemPoolObj&lt; CWString &gt;" href="d7/de5/class_nyx_1_1_c_mem_pool_obj.html">
+            <topic label="Nyx::CMemPoolWString" href="d1/d31/class_nyx_1_1_c_mem_pool_w_string.html"/>
+          </topic>
+        </topic>
+      </topic>
+      <topic label="Nyx::CMFStringRef" href="d2/d1e/class_nyx_1_1_c_m_f_string_ref.html"/>
+      <topic label="Nyx::CMsg" href="d7/d73/class_nyx_1_1_c_msg.html"/>
+      <topic label="Nyx::CMsgBucket" href="de/d4b/class_nyx_1_1_c_msg_bucket.html">
+        <topic label="Nyx::TMsgBucket&lt; TYPE &gt;" href="d1/dae/class_nyx_1_1_t_msg_bucket.html"/>
+      </topic>
+      <topic label="NyxNet::CNxDataHeader" href="dc/d5e/class_nyx_net_1_1_c_nx_data_header.html"/>
+      <topic label="NyxNet::CNxSectionStreamReader" href="d5/dc5/class_nyx_net_1_1_c_nx_section_stream_reader.html"/>
+      <topic label="NyxNet::CNxSectionStreamWriter" href="dd/d68/class_nyx_net_1_1_c_nx_section_stream_writer.html"/>
+      <topic label="NyxNet::CNxStreamReader" href="d0/d10/class_nyx_net_1_1_c_nx_stream_reader.html"/>
+      <topic label="NyxNet::CNxStreamWriter" href="d3/d2e/class_nyx_net_1_1_c_nx_stream_writer.html"/>
+      <topic label="Nyx::CObject" href="d7/dca/class_nyx_1_1_c_object.html">
+        <topic label="Nyx::CActiveObject" href="d1/d7f/class_nyx_1_1_c_active_object.html"/>
+        <topic label="Nyx::CEvent" href="d6/d40/class_nyx_1_1_c_event.html"/>
+        <topic label="Nyx::CExternalModule" href="de/d48/class_nyx_1_1_c_external_module.html"/>
+        <topic label="Nyx::CFile" href="d6/d76/class_nyx_1_1_c_file.html">
+          <topic label="Nyx::CTextFile" href="d0/df7/class_nyx_1_1_c_text_file.html">
+            <topic label="Nyx::CAnsiFile" href="d9/d8d/class_nyx_1_1_c_ansi_file.html"/>
+          </topic>
+        </topic>
+        <topic label="Nyx::CMemoryPool" href="df/d80/class_nyx_1_1_c_memory_pool.html">
+          <topic label="Nyx::CObjectsPool" href="d8/db2/class_nyx_1_1_c_objects_pool.html"/>
+        </topic>
+        <topic label="Nyx::CModule" href="d4/dd4/class_nyx_1_1_c_module.html"/>
+        <topic label="Nyx::CMsgHandler" href="d9/d6e/class_nyx_1_1_c_msg_handler.html"/>
+        <topic label="Nyx::CMsgHandlers" href="d1/d96/class_nyx_1_1_c_msg_handlers.html"/>
+        <topic label="Nyx::CMsgQueue" href="d2/d78/class_nyx_1_1_c_msg_queue.html"/>
+        <topic label="Nyx::CMutex" href="d2/dc5/class_nyx_1_1_c_mutex.html"/>
+        <topic label="Nyx::CTask" href="d3/d02/class_nyx_1_1_c_task.html"/>
+        <topic label="Nyx::CTaskExecuter" href="d2/d40/class_nyx_1_1_c_task_executer.html"/>
+        <topic label="Nyx::CTaskExecuterPool" href="db/dfc/class_nyx_1_1_c_task_executer_pool.html"/>
+        <topic label="Nyx::CTestUnit" href="de/d62/class_nyx_1_1_c_test_unit.html"/>
+        <topic label="Nyx::CTestUnitsGroup" href="de/da7/class_nyx_1_1_c_test_units_group.html"/>
+        <topic label="Nyx::CThread" href="d3/d5a/class_nyx_1_1_c_thread.html"/>
+        <topic label="Nyx::CThreadId" href="d8/dfc/class_nyx_1_1_c_thread_id.html"/>
+        <topic label="Nyx::CThreadProc" href="d8/d46/class_nyx_1_1_c_thread_proc.html">
+          <topic label="Nyx::CRefCount_Impl&lt; Nyx::CThreadProc &gt;" href="d7/d1b/class_nyx_1_1_c_ref_count___impl.html">
+            <topic label="Nyx::CObject_Impl&lt; Nyx::CThreadProc &gt;" href="d2/d46/class_nyx_1_1_c_object___impl.html">
+              <topic label="Nyx::CThreadDelegate&lt; C &gt;" href="d3/d6b/class_nyx_1_1_c_thread_delegate.html"/>
+              <topic label="Nyx::CThreadDelegateNoRef&lt; C &gt;" href="dc/d82/class_nyx_1_1_c_thread_delegate_no_ref.html"/>
+            </topic>
+          </topic>
+        </topic>
+        <topic label="Nyx::CTraceCompositor" href="de/d45/class_nyx_1_1_c_trace_compositor.html"/>
+        <topic label="Nyx::CTraceOutput" href="de/d20/class_nyx_1_1_c_trace_output.html">
+          <topic label="Nyx::CConsoleTraceOutput" href="d7/d18/class_nyx_1_1_c_console_trace_output.html"/>
+          <topic label="NyxNet::CPipeTraceOutput" href="db/d50/class_nyx_net_1_1_c_pipe_trace_output.html"/>
+          <topic label="NyxNet::CTcpIpTraceOutput" href="d0/df7/class_nyx_net_1_1_c_tcp_ip_trace_output.html"/>
+        </topic>
+        <topic label="NyxNet::CModule" href="d9/da5/class_nyx_net_1_1_c_module.html"/>
+        <topic label="NyxNet::CNxConnection" href="df/d8e/class_nyx_net_1_1_c_nx_connection.html"/>
+        <topic label="NyxNet::CServer" href="dc/dc5/class_nyx_net_1_1_c_server.html">
+          <topic label="NyxNet::CPipeServer" href="d5/d29/class_nyx_net_1_1_c_pipe_server.html"/>
+          <topic label="NyxNet::CTcpIpServer" href="d3/d29/class_nyx_net_1_1_c_tcp_ip_server.html"/>
+        </topic>
+        <topic label="NyxNet::CSocket" href="d4/d21/class_nyx_net_1_1_c_socket.html">
+          <topic label="NyxNet::CPipeSocket" href="de/dbd/class_nyx_net_1_1_c_pipe_socket.html">
+            <topic label="NyxNet::CPipeSocketReader" href="d8/dea/class_nyx_net_1_1_c_pipe_socket_reader.html"/>
+            <topic label="NyxNet::CPipeSocketWriter" href="d0/d81/class_nyx_net_1_1_c_pipe_socket_writer.html"/>
+          </topic>
+          <topic label="NyxNet::CTcpIpSocket" href="d6/d3d/class_nyx_net_1_1_c_tcp_ip_socket.html"/>
+        </topic>
+      </topic>
+      <topic label="Nyx::CRange" href="d9/d04/class_nyx_1_1_c_range.html"/>
+      <topic label="Nyx::CRef&lt; TYPE &gt;" href="d0/d97/class_nyx_1_1_c_ref.html"/>
+      <topic label="Nyx::CRefCount_Impl&lt; BASE &gt;" href="d7/d1b/class_nyx_1_1_c_ref_count___impl.html">
+        <topic label="Nyx::CObject_Impl&lt; BASE &gt;" href="d2/d46/class_nyx_1_1_c_object___impl.html"/>
+      </topic>
+      <topic label="Nyx::CRefCount_Impl_DummyBase" href="dc/d01/class_nyx_1_1_c_ref_count___impl___dummy_base.html">
+        <topic label="Nyx::CRefCount_Impl&lt;&gt;" href="d7/d1b/class_nyx_1_1_c_ref_count___impl.html">
+          <topic label="Nyx::CDelegateBase&lt; PTYPE &gt;" href="d1/d73/class_nyx_1_1_c_delegate_base.html"/>
+        </topic>
+      </topic>
+      <topic label="Nyx::CSystem" href="d8/d40/class_nyx_1_1_c_system.html"/>
+      <topic label="Nyx::CThreadModule" href="da/d44/class_nyx_1_1_c_thread_module.html"/>
+      <topic label="Nyx::CTime" href="d1/d82/class_nyx_1_1_c_time.html"/>
+      <topic label="Nyx::CTraceCompositorBuffer" href="de/d6b/class_nyx_1_1_c_trace_compositor_buffer.html">
+        <topic label="Nyx::CTraceCompositorBuffer_Ansi" href="db/dc4/class_nyx_1_1_c_trace_compositor_buffer___ansi.html"/>
+        <topic label="Nyx::CTraceCompositorBuffer_WideChar" href="d4/dad/class_nyx_1_1_c_trace_compositor_buffer___wide_char.html"/>
+      </topic>
+      <topic label="Nyx::CTraceFeed" href="d3/dbf/class_nyx_1_1_c_trace_feed.html">
+        <topic label="Nyx::CAnsiTraceFeed" href="d1/d1f/class_nyx_1_1_c_ansi_trace_feed.html">
+          <topic label="Nyx::CTF_AnsiText" href="d6/dc3/class_nyx_1_1_c_t_f___ansi_text.html"/>
+          <topic label="Nyx::CTF_Double" href="d7/df1/class_nyx_1_1_c_t_f___double.html"/>
+          <topic label="Nyx::CTF_Float" href="d6/d21/class_nyx_1_1_c_t_f___float.html"/>
+          <topic label="Nyx::CTF_Hex" href="d6/d9e/class_nyx_1_1_c_t_f___hex.html"/>
+          <topic label="Nyx::CTF_Int" href="d7/d95/class_nyx_1_1_c_t_f___int.html"/>
+          <topic label="Nyx::CTF_Ptr" href="d4/d2e/class_nyx_1_1_c_t_f___ptr.html"/>
+          <topic label="Nyx::CTF_ThreadId" href="d5/dd4/class_nyx_1_1_c_t_f___thread_id.html"/>
+          <topic label="Nyx::CTF_TickCount" href="d7/dd1/class_nyx_1_1_c_t_f___tick_count.html"/>
+        </topic>
+        <topic label="Nyx::CWideCharTraceFeed" href="d6/d45/class_nyx_1_1_c_wide_char_trace_feed.html">
+          <topic label="Nyx::CTF_Text" href="dd/de2/class_nyx_1_1_c_t_f___text.html"/>
+        </topic>
+      </topic>
+      <topic label="NyxNet::CTraceFlags" href="d4/d9a/class_nyx_net_1_1_c_trace_flags.html"/>
+      <topic label="Nyx::CTraceHeader" href="dd/dc9/class_nyx_1_1_c_trace_header.html"/>
+      <topic label="Nyx::CTraceModule" href="d0/dcb/class_nyx_1_1_c_trace_module.html"/>
+      <topic label="Nyx::CTraceStream" href="da/d95/class_nyx_1_1_c_trace_stream.html"/>
+      <topic label="NyxNet::CTraceStreamWriter" href="d5/d9e/class_nyx_net_1_1_c_trace_stream_writer.html"/>
+      <topic label="Nyx::CTraceTimeReference" href="d0/d6e/class_nyx_1_1_c_trace_time_reference.html"/>
+      <topic label="NyxNet::IConnection" href="d0/d7d/class_nyx_net_1_1_i_connection.html"/>
+      <topic label="Nyx::IMsgQueueEventHandler" href="dc/d83/class_nyx_1_1_i_msg_queue_event_handler.html"/>
+      <topic label="NyxNet::INxConnectionHandler" href="d0/d3c/class_nyx_net_1_1_i_nx_connection_handler.html"/>
+      <topic label="NyxNet::INxSectionStreamRW" href="d6/d27/class_nyx_net_1_1_i_nx_section_stream_r_w.html">
+        <topic label="NyxNet::INxStreamRW" href="d6/dbe/class_nyx_net_1_1_i_nx_stream_r_w.html">
+          <topic label="NyxNet::CNxConnection" href="df/d8e/class_nyx_net_1_1_c_nx_connection.html"/>
+        </topic>
+      </topic>
+      <topic label="NyxNet::ISocketListener" href="d4/d23/class_nyx_net_1_1_i_socket_listener.html"/>
+      <topic label="Nyx::IStreamHandler" href="d0/dab/class_nyx_1_1_i_stream_handler.html">
+        <topic label="NyxNet::IConnectionHandler" href="d4/d4f/class_nyx_net_1_1_i_connection_handler.html">
+          <topic label="NyxNet::CNxConnection" href="df/d8e/class_nyx_net_1_1_c_nx_connection.html"/>
+        </topic>
+      </topic>
+      <topic label="Nyx::IStreamReader" href="d1/d7b/class_nyx_1_1_i_stream_reader.html">
+        <topic label="Nyx::IStreamRW" href="d1/d9b/class_nyx_1_1_i_stream_r_w.html"/>
+      </topic>
+      <topic label="Nyx::IStreamWriter" href="db/d4f/class_nyx_1_1_i_stream_writer.html">
+        <topic label="Nyx::IStreamRW" href="d1/d9b/class_nyx_1_1_i_stream_r_w.html"/>
+      </topic>
+      <topic label="Nyx::StdListAllocator&lt; _Ty, Pool &gt;::rebind&lt; _Other &gt;" href="d5/dc7/struct_nyx_1_1_std_list_allocator_1_1rebind.html"/>
+      <topic label="Nyx::StdListAllocator&lt; _Ty, Pool &gt;" href="d2/d9e/class_nyx_1_1_std_list_allocator.html"/>
+      <topic label="Nyx::TBuffer&lt; TYPE &gt;" href="dc/d61/class_nyx_1_1_t_buffer.html"/>
+      <topic label="Nyx::TFixedString&lt; TYPE, StringSize &gt;" href="d1/d5b/class_nyx_1_1_t_fixed_string.html"/>
+      <topic label="Nyx::TFixedString&lt; char, StringSize &gt;" href="d0/dcd/class_nyx_1_1_t_fixed_string_3_01char_00_01_string_size_01_4.html"/>
+      <topic label="Nyx::TFixedString&lt; wchar_t, StringSize &gt;" href="d3/da8/class_nyx_1_1_t_fixed_string_3_01wchar__t_00_01_string_size_01_4.html"/>
+      <topic label="Nyx::TLock&lt; T &gt;" href="da/d3e/class_nyx_1_1_t_lock.html"/>
+      <topic label="Nyx::TStringBufferPtr" href="d5/ddb/union_nyx_1_1_t_string_buffer_ptr.html"/>
+      <topic label="Nyx::TStringFlags" href="dc/d40/struct_nyx_1_1_t_string_flags.html"/>
+    </topic>
+    <topic label="Class Members" href="functions.html">
+      <topic label="All" href="functions.html"/>
+      <topic label="Functions" href="functions_func.html"/>
+    </topic>
+  </topic>
+</toc>

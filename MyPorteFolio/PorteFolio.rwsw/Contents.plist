@@ -11,32 +11,30 @@
 		<dict>
 			<key>Dictionary</key>
 			<dict>
-				<key>PublishingManifest</key>
-				<dict/>
 				<key>Site Resources</key>
 				<data>
 				YnBsaXN0MDDUAQIDBAUIVVZUJHRvcFgkb2JqZWN0c1gk
 				dmVyc2lvblkkYXJjaGl2ZXLRBgdUcm9vdIABrxAQCQoR
-				HSAnLDA0ODxASEtPU1UkbnVsbNILDA0QWk5TLm9iamVj
-				dHNWJGNsYXNzog4PgAKAC4AP1hITFAwVFhcYGRobHFhO
-				b2RlIE1hcFlSZXNvdXJjZXNYUGF0aCBNYXBeSWRlbnRp
-				ZmllciBNYXBYUGFnZSBNYXCAB4ADgAmACoAFgAjSCwwe
-				H6CABNIhIiMkWCRjbGFzc2VzWiRjbGFzc25hbWWjJCUm
-				XE5TTXV0YWJsZVNldFVOU1NldFhOU09iamVjdNMLKAwp
-				KitXTlMua2V5c6CggAbSISItLqMuLyZfEBNOU011dGFi
-				bGVEaWN0aW9uYXJ5XE5TRGljdGlvbmFyedMLKAwxMiug
-				oIAG0wsoDDU2K6CggAbTCygMOToroKCABtIhIj0/oj4m
+				HSAnLDA0ODxASEtPU1UkbnVsbNILDA0OViRjbGFzc1pO
+				Uy5vYmplY3RzgA+iDxCAAoAL1hITCxQVFhcYGRobHFhQ
+				YWdlIE1hcFlSZXNvdXJjZXNYUGF0aCBNYXBeSWRlbnRp
+				ZmllciBNYXBYTm9kZSBNYXCACIADgAqACYAFgAfSCwwe
+				H4AEoNIhIiMkWCRjbGFzc2VzWiRjbGFzc25hbWWjJCUm
+				XE5TTXV0YWJsZVNldFVOU1NldFhOU09iamVjdNMMCygp
+				KitXTlMua2V5c6CABqDSISItLqMuLyZfEBNOU011dGFi
+				bGVEaWN0aW9uYXJ5XE5TRGljdGlvbmFyedMMCygxKjOg
+				gAag0wwLKDUqN6CABqDTDAsoOSo7oIAGoNIhIj0/oj4m
 				XxASUldSZXNvdXJjZURhdGFiYXNlXxASUldSZXNvdXJj
-				ZURhdGFiYXNl1EEMQkNERUZGWENoaWxkcmVuXxASUmVw
-				cmVzZW50ZWQgT2JqZWN0VlBhcmVudIAMgA6AAIAA0gsM
-				SUqggA3SISJMTaNNTiZeTlNNdXRhYmxlQXJyYXlXTlNB
+				ZURhdGFiYXNl1EFCQwtERURHVlBhcmVudFhDaGlsZHJl
+				bl8QElJlcHJlc2VudGVkIE9iamVjdIAAgAyAAIAO0gsM
+				SUqADaDSISJMTaNNTiZeTlNNdXRhYmxlQXJyYXlXTlNB
 				cnJhedIhIlBSolEmXxAQUldTb3VyY2VMaXN0Tm9kZV8Q
 				EFJXU291cmNlTGlzdE5vZGXSISJUTqJOJhIAAYagXxAP
 				TlNLZXllZEFyY2hpdmVyAAgAEQAWAB8AKAAyADUAOgA8
-				AE8AVQBaAGUAbABvAHEAcwB1AIIAiwCVAJ4ArQC2ALgA
-				ugC8AL4AwADCAMcAyADKAM8A2ADjAOcA9AD6AQMBCgES
-				ARMBFAEWARsBHwE1AUIBSQFKAUsBTQFUAVUBVgFYAV8B
-				YAFhAWMBaAFrAYABlQGeAacBvAHDAcUBxwHJAcsB0AHR
+				AE8AVQBaAGEAbABuAHEAcwB1AIIAiwCVAJ4ArQC2ALgA
+				ugC8AL4AwADCAMcAyQDKAM8A2ADjAOcA9AD6AQMBCgES
+				ARMBFQEWARsBHwE1AUIBSQFKAUwBTQFUAVUBVwFYAV8B
+				YAFiAWMBaAFrAYABlQGeAaUBrgHDAcUBxwHJAcsB0AHS
 				AdMB2AHcAesB8wH4AfsCDgIhAiYCKQIuAAAAAAAAAgEA
 				AAAAAAAAVwAAAAAAAAAAAAAAAAAAAkA=
 				</data>
@@ -57,7 +55,7 @@
 					<key>CruftlessLinksEnabled</key>
 					<false/>
 					<key>DefaultExportPath</key>
-					<string>/Users/dannyt/dev/website/PorteFolio</string>
+					<string>/Users/dannyt/dev/websites/exports/PorteFolio</string>
 					<key>DirectoryIndexFilenames</key>
 					<array>
 						<string>index.htm</string>
@@ -68,6 +66,20 @@
 					<string>danny.thibaudeau@hotmail.com</string>
 					<key>FavIconUsed</key>
 					<false/>
+					<key>GoogleAnalyticsCode</key>
+					<string>&lt;script type="text/javascript"&gt;
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33662531-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+&lt;/script&gt;</string>
 					<key>LogoUsed</key>
 					<false/>
 					<key>ObfuscateEmailAddress</key>
