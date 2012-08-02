@@ -22,6 +22,8 @@
 					<key>Name</key>
 					<string>iFrame</string>
 				</dict>
+				<key>PublishingManifest</key>
+				<dict/>
 			</dict>
 			<key>Files</key>
 			<array/>
