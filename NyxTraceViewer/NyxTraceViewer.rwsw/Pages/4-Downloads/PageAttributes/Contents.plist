@@ -31,8 +31,6 @@
 				<string>self</string>
 				<key>FilenameExtension</key>
 				<string>html</string>
-				<key>FolderName</key>
-				<string>styled-3</string>
 				<key>HasCustomThemeStyle</key>
 				<true/>
 				<key>ImageFormat</key>
@@ -51,17 +49,18 @@
 				<string>utf-8</string>
 				<key>ThemeStyles</key>
 				<dict>
-					<key>Interslice</key>
-					<array>
-						<string>Sidebar.Left</string>
-						<string>Width.1000px</string>
-					</array>
 					<key>Manitoba</key>
 					<array>
 						<string>Header Alignment.Left</string>
 						<string>Icon Colour.Green</string>
 						<string>Sidebar.Right</string>
 						<string>Width.Variable</string>
+					</array>
+					<key>Possible</key>
+					<array>
+						<string>Sidebar.Hide</string>
+						<string>Styles.Orange</string>
+						<string>Width.1000px</string>
 					</array>
 				</dict>
 			</dict>

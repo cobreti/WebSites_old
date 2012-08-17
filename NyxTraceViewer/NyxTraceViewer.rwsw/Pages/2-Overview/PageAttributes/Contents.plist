@@ -110,6 +110,12 @@
 						<string>Sidebar.Right</string>
 						<string>Styles.Blue</string>
 					</array>
+					<key>Possible</key>
+					<array>
+						<string>Sidebar.Hide</string>
+						<string>Styles.Orange</string>
+						<string>Width.1000px</string>
+					</array>
 					<key>Realmac Software '05</key>
 					<array>
 						<string>Colors.Aqua</string>

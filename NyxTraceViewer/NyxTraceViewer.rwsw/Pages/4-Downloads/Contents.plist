@@ -8,19 +8,19 @@
 			<key>Dictionary</key>
 			<dict>
 				<key>ID</key>
-				<string>page3</string>
+				<string>page6</string>
 				<key>MostRecentlySelectedStyleName</key>
 				<string>Custom Style</string>
 				<key>PageTitle</key>
 				<string>Downloads</string>
 				<key>PluginClassName</key>
-				<string>RWStyledPlugin</string>
+				<string>YHStacksPlugin</string>
 				<key>PluginMetadata</key>
 				<dict>
 					<key>Author</key>
-					<string>Realmac Software</string>
+					<string>Isaiah Carew - YourHead Software</string>
 					<key>Name</key>
-					<string>Styled Text</string>
+					<string>Stacks</string>
 				</dict>
 				<key>PublishingManifest</key>
 				<dict/>

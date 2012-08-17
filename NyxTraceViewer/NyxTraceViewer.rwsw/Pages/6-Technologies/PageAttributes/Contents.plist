@@ -63,6 +63,12 @@
 						<string>Sidebar.Right</string>
 						<string>Width.Variable</string>
 					</array>
+					<key>Possible</key>
+					<array>
+						<string>Sidebar.Hide</string>
+						<string>Styles.Orange</string>
+						<string>Width.1000px</string>
+					</array>
 				</dict>
 			</dict>
 			<key>Files</key>
